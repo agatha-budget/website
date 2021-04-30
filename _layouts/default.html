@@ -26,9 +26,8 @@
 	<body>
 		<header>
 			<div class="container">
-				<!-- <h1 class="company-name"><a href="{{ site.baseurl }}/"><img src="{{ site.baseurl }}/images/logo_small.png" alt="Agatha" width="100">Agatha</a></h1>
--->
-				<h1 class="company-name"><a href="{{ site.baseurl }}/">Agatha</a></h1>
+				<h1 class="company-name"><a href="{{ site.baseurl }}/"><img src="{{ site.baseurl }}/images/marque4.png" alt="Agatha" width="250"></a></h1>
+				<!--<h1 class="company-name"><a href="{{ site.baseurl }}/">Agatha</a></h1>-->
 				{% include navigation.html %}
 			</div>
 		</header>
@@ -69,11 +68,17 @@
 			</div>
 
 			<div class="legal-line">
-				<p class="container">
+				<div class="container">
+				<p >
 					&copy; {{ site.time | date: '%Y' }} {{ site.data.company.title }}
-					&bull;
-					Template by <a href="https://cloudcannon.com/">CloudCannon</a>
+					&bull; Template by <a href="https://cloudcannon.com/">CloudCannon</a>
+					&bull; Images personnelles ou par
+					<!-- anemone : mains -->
+					<a href="https://pixabay.com/fr/users/anemone123-2637160/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=2447163">Anemone123</a>
+					<!-- OHMAOH : bulles --> 
+					et <a href="https://pixabay.com/fr/users/ohmaoh-4244193/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=5717231">OHMAOH</a> de <a href="https://pixabay.com/fr/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=2447163">Pixabay</a>
 				</p>
+			</div>
 			</div>
 		</footer>
 

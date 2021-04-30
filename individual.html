@@ -1,7 +1,7 @@
 ---
 title: Contact
-heading: Contactez nous 
-subtitle: <p>Particulier ?</p> Vous rencontrez des difficultés ou avez un grand projet ? Nous sommes à votre disposition pour vous aider à établir un plan d'action <p>Professionnel ?</p> Vous accompagnez des personnes pouvant bénéficier de notre aide ? Nous serons ravis de discuter d'un potentiel partenariat.  
+heading: Particuliers ?
+subtitle: Vous rencontrez des difficultés ou avez un grand projet ? <br/> Nous sommes là pour vous aider à établir un plan d'action
 map:
   latitude: 45.188529
   longitude: 5.724524
@@ -11,6 +11,19 @@ map:
 
 <section class="diagonal">
 	<div class="container">
+		<p>Notre produit est actuellement en cours de développement, mais cela ne veut pas dire que nous ne pouvons pas vous aider dès aujourd'hui !</p>
+
+		<p>Dans le cadre de la mise en place de nos services, nous proposons un accompagnement VIP à nos premiers utilisateurs :</p> 
+		<ul>
+			<li><b>2 entretiens de 1h</b> pour créer un budget personnalisé puis pour apprendre à le suivre</li>
+			<li><b>1 point hebdomadaire puis mensuel</b> pour répondre à vos questions et vous aider à rester sur le chemin que vous déciderez d'emprunter</li>
+			<li><b>1 outil</b> excel</li>
+		</ul>
+
+		<p>et tout cela pour <b>50€, avec garantie satisfait ou remboursé</b></p>
+
+		<p><i>Note : ce service est proposé gratuitement aux personnes surendettées et aux bénéficiaires des Restos du Coeur de Grenoble</i></p> 
+
 		<form action="{{ site.baseurl }}/contact-success/" method="post" class="contact-form">
 			<input type="hidden" name="_to" value="erica@tresorier.me" />
 			<input type="text" name="_gotcha" style="display: none;" />
@@ -31,8 +44,10 @@ map:
 			<input type="email" name="email" id="email" placeholder="jeanne@dupont.com" required />
 
 			<label for="message">Message</label>
-			<textarea name="message" id="message" placeholder="Bonjour..."></textarea>
-
+			<textarea name="message" id="message" >
+Bonjour, 
+Je souhaites bénéficier de l'accompagnement proposé par Agatha
+			 </textarea>
 			<input type="submit" value="Envoyer" />
 		</form>
 	</div>
