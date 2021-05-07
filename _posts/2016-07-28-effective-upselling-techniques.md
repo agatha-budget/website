@@ -3,7 +3,7 @@ title: Effective upselling techniques
 categories:
   - sales
   - tips
-author_staff_member: james
+author_staff_member: erica
 show_comments: true
 ---
 

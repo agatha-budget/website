@@ -1,9 +1,9 @@
 title: Agatha
-url: "https://teal-worm.cloudvent.net"
+url: "http://agatha-budget.fr"
 baseurl:
 google_analytics_key:
 google_maps_javascript_api_key:
-disqus_shortname:
+disqus_shortname: agatha-budget
 
 # Default description in social shares for the jekyll-seo-tag gem
 description:
@@ -12,7 +12,7 @@ description:
 author:
   name: Erica Delagnier
   email: erica@tresorier.me
-  twitter: # twitter username without the @ symbol
+  twitter: EDelagnier
 
 # Social details for the jekyll-seo-tag gem
 social:
@@ -99,4 +99,4 @@ social_icons:
   - YouTube
   - RSS
 
-theme: jekyll-theme-cayman
+#theme: jekyll-theme-cayman
