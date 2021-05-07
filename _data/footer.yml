@@ -7,22 +7,22 @@
     - name: A propos
       link: /about/
     - name: Contact
-      link: /contact/
+      link: /individual/
 - title: Sur les réseaux
   links:
     - name: Facebook
-      link: https://facebook.com/cloudcannon/
+      link: https://www.facebook.com/erica.delagnier/
       social_icon: Facebook
       new_window: true
     - name: Twitter
-      link: https://twitter.com/cloudcannon/
+      link: https://twitter.com/EDelagnier
       social_icon: Twitter
       new_window: true
     - name: Instagram
-      link: https://instagram.com/
+      link: https://www.instagram.com/erica_delagnier/
       social_icon: Instagram
       new_window: true
     - name: LinkedIn
-      link: https://nz.linkedin.com/company/cloud-cannon
+      link: https://fr.linkedin.com/in/erica-delagnier-9abb0697
       social_icon: LinkedIn
       new_window: true
