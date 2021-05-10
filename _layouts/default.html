@@ -25,6 +25,24 @@
 		gtag('config', '{{ site.google_analytics_key }}');
 		</script>
 		{% endif %}
+		<script type="application/ld+json">
+			{
+				"@context": {
+				  "gr": "http://purl.org/goodrelations/v1#",
+				  "pto": "http://www.productontology.org/id/",
+				  "foaf": "http://xmlns.com/foaf/0.1/",
+				  "xsd": "http://www.w3.org/2001/XMLSchema#"
+				},
+				"@id": "http://agatha-budget.fr",
+				"@type": "gr:ProductOrService",
+				"gr:description": "Service dédié à la gestion des finances personnelle. 
+				Une méthode, un outil et un accompagnement pour prendre le contrôle de votre argent",
+				"foaf:depiction": "http://agatha-budget.fr/images/favicon.png",
+				"foaf:name": "Agatha-Budget",
+				"foaf:page": "http://agatha-budget.fr"
+			}
+		</script>
+		
 	</head>
 	<body>
 		<header>
