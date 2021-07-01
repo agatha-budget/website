@@ -74,8 +74,8 @@ section {
 	}
 
 	&.hero {
-		color: #ffffff;
-		background: linear-gradient(231deg, rgba(33,152,166,1) 0%, rgba(18,77,116,1) 40%);
+		color: $brand-color;
+		background: $html-background-color;
 		text-align: center;
 		margin-top: -100px;
 		padding-top: 250px;
@@ -90,7 +90,7 @@ section {
 
 		p {
 			font-size: 1.8rem;
-			color: #fff;
+			color: $secondary-brand-color;
 		}
 
 		a:not(.button) {
@@ -112,16 +112,16 @@ section {
 	padding: 13px 38px;
 	border-radius: 3px;
 	display: inline-block;
-	color: $brand-color;
+	color: #fff;
 	text-decoration: none;
 	cursor: pointer;
 	margin: 20px 0 0 0;
-	border: 1px solid #fff;
-	background: #fff;
+	border: 1px solid $brand-color;
+	background: $brand-color;
 	text-decoration: none !important;
 
 	&:hover {
-		background: rgba(255, 255, 255, 0.3);
+		background: $secondary-brand-color;
 		color: #fff;
 	}
 
@@ -242,7 +242,7 @@ section {
 }
 
 .patterned {
-	background: #222 url($pattern);
+	background: $secondary-brand-color;
 
 	&,
 	p {
