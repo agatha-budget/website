@@ -12,7 +12,7 @@ layout: default
                 {% if page.subtitle %}
                 <h2 class="subheading">{{ page.subtitle }}</h2>
                 {% endif %}
-                <p class="meta">Posted by {% if page.author %}{{ page.author }}{% else %}{{ site.title }}{% endif %} on {{ page.date | date: "%B %-d, %Y" }}</p>
+                <p class="meta">Publié par {% if page.author %}{{ page.author }}{% else %}{{ site.title }}{% endif %} sur {{ page.date | date: "%B %-d, %Y" }}</p>
                 <a href="#post" class="page-scroll"><i class="fa fa-fw fa-2x fa-arrow-down"></i></a>
               </div>
             </div>
@@ -80,7 +80,7 @@ layout: default
     <div class="row">
       <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
 
-      <h2 class="section-heading">Leave a comment! We <i style="color:red"class="fa fa-heart"></i> it!</h2>
+      <h2 class="section-heading"> Laissez un commentaire, ça fait chaud au coeur <i style="color:red"class="fa fa-heart"></i> !</h2>
 
       <script id="dsq-count-scr" src="//{{ site.disqus_account }}.disqus.com/count.js" async></script>
 
@@ -105,8 +105,8 @@ layout: default
       (d.head || d.body).appendChild(s);
       })();
       </script>
-      <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
-
+      <noscript>Pour participer aux commentaires gérés par Disqus, il est nécessaire d'activer Javascript <a href="https://disqus.com/?ref_noscript">, 
+          et si vous ne le souhaitez/pouvez pas, nous serons ravis de connaitre vos pensées par mail</a></noscript>
     </div>
   </div>
 </div>
