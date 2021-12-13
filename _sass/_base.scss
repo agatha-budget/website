@@ -227,13 +227,32 @@ header {
 }
 
 section {
-  padding: 100px 0;
-  .fa-ul {
-    margin: 0;
-    padding: 0 3em 0 3em;
-  }
+  padding: 150px 0;
+  
   h2 {
     font-size: 50px;
+  }
+  &#different {
+    .fa-ul {
+      margin: 0;
+      padding: 0 3em 0 3em;
+      list-style-position: inside;
+    }
+    li {
+      text-align: justify;
+      font-size: 20px;
+    }
+  }
+  &#credo {
+    .fa-ul {
+      margin: 0;
+      padding: 0 3em 0 3em;
+      list-style-position: inside;
+    }
+    li {
+      text-align: center;
+      font-size: 30px;
+    }
   }
   &.section {
     padding: 150px 0;
@@ -242,9 +261,9 @@ section {
       margin-top: 0;
       font-size: 50px;
     }
-    li {
-      text-align: justify;
-      font-size: 20px;
+    .section-footer {
+      padding-top: 1em;
+      text-align: center;
     }
     .badges .badge-link {
       display: block;
@@ -459,12 +478,16 @@ footer {
   background: $theme-primary;
   background: -webkit-linear-gradient($theme-primary, $theme-secondary);
   background: linear-gradient($theme-primary, $theme-secondary);
+  text-shadow: 2px 2px 2px $theme-primary;
+  color: $dark-grey;
 }
 
 .bg-contrast {
   background: $head-secondary;
   background: -webkit-linear-gradient($head-secondary, $theme-primary);
   background: linear-gradient($head-secondary, $theme-primary);
+  text-shadow: 1px 1px 2px $head-secondary;
+  color: $dark-grey;
 }
 
 .text-primary {
@@ -527,7 +550,7 @@ body {
     position: relative;
     display: block;
     max-width: 650px;
-    margin: 0 auto;
+    margin: 0 auto 0 auto;
     .portfolio-box-caption {
         color: white;
         opacity: 0;
