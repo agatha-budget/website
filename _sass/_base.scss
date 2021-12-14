@@ -230,38 +230,31 @@ section {
   padding: 150px 0;
   
   h2 {
+    margin-top: 0;
     font-size: 50px;
+    &.section-subheading {
+      font-size: 30px;
+      font-style: italic;
+      color : white;
+    }
   }
+
   &#different {
-    .fa-ul {
+    ul {
       margin: 0;
       padding: 0 3em 0 3em;
-      list-style-position: inside;
-    }
-    li {
-      text-align: justify;
-      font-size: 20px;
-    }
-  }
-  &#credo {
-    .fa-ul {
-      margin: 0;
-      padding: 0 3em 0 3em;
-      list-style-position: inside;
+      list-style: none;
     }
     li {
       text-align: center;
-      font-size: 30px;
+      font-size: 20px;
     }
   }
   &.section {
-    padding: 150px 0;
+    padding: 80px 0;
     position: relative;
-    h2 {
-      margin-top: 0;
-      font-size: 50px;
-    }
     .section-footer {
+      color: white;
       padding-top: 1em;
       text-align: center;
     }
@@ -546,6 +539,10 @@ body {
     padding: 0;
 }
 
+#user-testimonials {
+  padding: 60px 0 0 0;
+}
+
 .portfolio-box {
     position: relative;
     display: block;
@@ -568,18 +565,22 @@ body {
             position: absolute;
             top: 50%;
             transform: translateY(-50%);
-            .project-category,
-            .project-name {
+            .customer-name,
+            .customer-review {
                 @include sans-serif-font;
                 padding: 0 15px;
+                font-size: 15px;
+                p {
+                  padding: 30px 0 0 0;
+                  margin: 0;
+                  font-style: italic;
+                  font-size: 12px;
+                }
             }
-            .project-category {
-                text-transform: uppercase;
+            .customer-name {
                 font-weight: 600;
-                font-size: 14px;
-            }
-            .project-name {
-                font-size: 18px;
+                font-size: 16px;
+                padding: 0 0 15px;
             }
         }
     }
@@ -591,11 +592,11 @@ body {
     @media (min-width: 768px) {
         .portfolio-box-caption {
             .portfolio-box-caption-content {
-                .project-category {
-                    font-size: 16px;
+                .customer-name {
+                    font-size: 20px;
                 }
-                .project-name {
-                    font-size: 22px;
+                .customer-review {
+                    font-size: 18px;
                 }
             }
         }
