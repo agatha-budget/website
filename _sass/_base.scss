@@ -238,7 +238,11 @@ section {
       color : white;
     }
   }
-
+  &#profile {
+    .service-box {
+      padding: 20px;
+    }
+  }
   &#different {
     ul {
       margin: 0;
