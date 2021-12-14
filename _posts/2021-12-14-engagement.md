@@ -1,10 +1,9 @@
 ---
 layout:     post
-title:      "I believe every human has a finite number of heartbeats. I don't intend to waste any of mine."
-date:       2016-09-18 12:00:00
-author:     "Start Bootstrap"
-header-img: "img/post-bg-05.jpg"
-categories: jekyll
+title:      "Les valeurs d'Agatha"
+date:       2021-12-14 12:01:00
+author:     "Erica Delagnier"
+categories: agatha
 ---
 
 <p>Never in all their history have men been able truly to conceive of the world as one: a single sphere, a globe, having the qualities of a globe, a round earth in which all the directions eventually meet, in which there is no center because every point, or none, is center — an equal earth which all men occupy as equals. The airman's earth, if free men make it, will be truly round: a globe in practice, not in theory.</p>

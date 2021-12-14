@@ -68,6 +68,11 @@ p {
   letter-spacing: 1px;
   .navbar-header {
     .navbar-brand {
+      text-align: center;
+      img {
+        display: inline;
+        max-height: 30px;
+      }
       font-family: 'Catamaran', 'Helvetica', 'Arial', 'sans-serif';
       font-weight: 200;
       letter-spacing: 1px;
@@ -93,14 +98,14 @@ p {
         color: #222222;
       }
       &:hover, &:focus:hover {
-        color: $theme-primary;
+        color: $head-secondary;
       }
     }
     &.active > a {
-      color: $theme-primary !important;
+      color: $head-secondary !important;
       background-color: transparent;
       &:focus {
-        color: $theme-primary !important;
+        color: $head-secondary !important;
         background-color: transparent;
       }
       &:hover, &:focus:hover {
@@ -241,6 +246,9 @@ section {
   &#profile {
     .service-box {
       padding: 20px;
+    }
+    a {
+      color: #333;
     }
   }
   &#different {
@@ -554,7 +562,7 @@ body {
 .portfolio-box {
     position: relative;
     display: block;
-    max-width: 650px;
+    max-width: 640px;
     margin: 0 auto 0 auto;
     .portfolio-box-caption {
         color: white;
