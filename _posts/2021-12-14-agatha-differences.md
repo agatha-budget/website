@@ -1,11 +1,11 @@
 ---
 layout:     post
-title:      "Man must explore, and this is exploration at its greatest"
-subtitle:   "Problems look mighty small from 150 miles up"
-date:       2016-09-24 12:00:00
-author:     "Antonio Trento"
+title:      "Pourquoi Agatha n'est pas comme les autres"
+subtitle:   "au dela du simple suivi"
+date:       2021-12-14 12:00:00
+author:     "Erica Delagnier"
 header-img: "img/post-bg-06.jpg"
-categories: jekyll
+categories: agatha
 ---
 
 <p>Never in all their history have men been able truly to conceive of the world as one: a single sphere, a globe, having the qualities of a globe, a round earth in which all the directions eventually meet, in which there is no center because every point, or none, is center — an equal earth which all men occupy as equals. The airman's earth, if free men make it, will be truly round: a globe in practice, not in theory.</p>
