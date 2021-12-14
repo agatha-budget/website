@@ -10,6 +10,32 @@ layout: default
             <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
               <div class="post-heading">
                 <h1>Nous sommes à votre écoute</h1>
+                <form action="https://formspree.io/f/mrgrednv" method="post" class="contact-form">
+                  <input type="text" name="_gotcha" style="display: none;" />
+                  <input type="hidden" name="_language" value="fr" />
+            
+                  <div class="halves">
+                    <div>
+                      <label for="name">Prénom</label>
+                      <input type="text" name="first-name" id="first-name" placeholder="Olympe" />
+                    </div>
+            
+                    <div>
+                      <label for="name">Nom</label>
+                      <input type="text" name="last-name" id="last-name" placeholder="Gouge" />
+                    </div>
+                  </div>
+            
+                  <label for="email">Email</label>
+                  <input type="email" name="email" id="email" placeholder="olympe@mail.fr" required />
+            
+                  <label for="message">Message</label>
+                  <textarea name="message" id="message" >
+            Bonjour, 
+            Je voudrais en savoir plus 
+                   </textarea>
+                  <input type="submit" value="Envoyer" />
+                </form>
               </div>
             </div>
         </div>
