@@ -620,6 +620,12 @@ body {
 
 // post styles
 
+#post {
+  li {
+    font-size: 18px;
+  }
+}
+
 .intro-header {
   background: no-repeat center center;
   background: $head-secondary;
