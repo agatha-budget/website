@@ -8,6 +8,61 @@ header-img: "img/post-bg-06.jpg"
 categories: agatha
 ---
 
+Aujourd'hui il existe de nombreux outils et applications censés vous aider à gérer votre argent. Mais pourquoi Agatha est elle différente ?
+
+Parmi les outils existants, on retrouve principalement deux catégories : les logiciels "avancés" et feuilles Excel inspirés du monde de la comptabilité et les utilitaires entièrement automatiques proposés par des institutions bancaires. 
+
+Facilité d'utilisation : 
+Avec Agatha, c'est très simple. Vous mettez votre argent dans des enveloppes. Lorsque vous avez besoin d'une enveloppe en particulier vous utilisez l'argent qui s'y trouve et si nécessaire allez en prendre dans une autre moins importante.
+Certaines enveloppes sont remplies et vidées chaque mois (loyer, nourriture). 
+D'autres accumulent l'argent que vous y assignez jusqu'à une date précise (assurances, vacances) ou pour une durée indéterminée ( pour vos réparations de voiture, pour votre fond de sécurité).
+Pas de formules compliquées qui peuvent casser à chaque modification du fichier. Pas de convention rigide à respecter. L'interface a été pensée pour être la plus simple possible grâce à des tests auprès d'utilisateurs de tout niveau informatique.
+
+Sur mesure :
+Vous pouvez avoir autant et aussi peu d'enveloppes que vous le souhaitez, les nommer, les remplacer, les archiver aussi souvent que l'envie vous en prend.  
+- Affiner pendant quelques mois votre observation des dépenses alimentaires en séparant le marché/la viande/les fast foods du reste puis les regrouper à nouveau lorsque vous avez pris vos marques dans votre nouvelle routine alimentaire, 
+- Séparer les loisirs entre ceux qui sont importants pour vous et les  divers. Cela vous permettra de vous assurer que votre argent et vous êtes sur la même page. On se prive souvent sur qui nous tient à cœur, sans réaliser ce qui est parti en microachat divers ou en sorties que l'on n'avait pas plus envie que ça de faire.
+- etc.. 
+Votre plan est le vôtre et vous pouvez lui donner la forme que vous souhaitez. 
+
+Une approche proactive :
+Comparée aux utilitaires bancaires et autres applications telles que Bankin, Agatha ne fait pas votre budget à votre place. 
+Vous les avez peut-être déjà testés et n'avez eu que le sentiment d'être spectateur de la 'fuite' de votre argent ? Vous n'êtes pas seuls dans ce cas. 
+En voulant vous décharger même des tâches les plus simples, ces outils vous tiennent en réalité à l'écart. Ils font des hypothèses sans les valider avec vous, répartissent vos dépenses selon leurs propres visions des choses.  Mais qui a vraiment une vie correspondant au modèle standard ? Quelle légitimité ont les pourcentages "taille unique" que l'ont voit souvent recommandés ? Les mêmes chiffres seront beaucoup trop bas pour certains et beaucoup trop haut pour d'autres.
+
+Réactif et bienveillant face aux imprévus :
+Pour tous les outils que j'ai pu tester, on retrouve un même biais. Celui de la privation et de l'échec. 
+Vous approchez de la limite que vous aviez prévue, on vous le signale et vous demande de bien vouloir vous restreindre pour respecter cet "engagement". 
+Vous l'avez dépassé ? Échec et mat. Vous avez échoué, retentez le mois prochain (puis le suivant..) et flagellez-vous au passage.
+Quand bien même vous avez les meilleures raisons du monde de dépasser des limites décidées avant que vous ayez toutes les informations nécessaires (ou pire imposé par des pourcentages jugés universels), le jugement est sans appel. Vous avez perdu.
+Vous avez eu besoin d'argent pour aller aider un proche : c'est gentil de votre part, mais pour votre budget... perdu
+Vous n'avez pas dépensé dans ce qui vous rend heureux : c'est dommage, mais pour votre budget... bravo !
+Ces messages contreproductifs ne font que vous éloigner de votre argent. Le budget devient l'ennemi. Celui pour qui il faut se sacrifier et qu'il faut défier lorsque vous n'avez plus le choix.
+
+Votre budget ne doit pas être au service de votre solde à la banque, mais au vôtre. Cela peut impliquer d'économiser, mais cela reste un moyen et non une fin.
+Imaginez un autre monde. Un monde où face à un imprévu, votre budget ne vous oblige pas à rester pieds et mains liés mais se met à votre disposition pour vous permettre de réagir ?
+Un proche a besoin d'aide. Pas de problème, vous avez un peu d'avance dans votre épargne vacances et cette personne est plus importante. Prenez ce qui vous manque et bon courage à vous deux.
+Vous n'avez pas dépensé cet argent que vous aviez prévu pour vous. Voulez-vous le garder pour vous faire plaisir plus tard ? Le reste de votre budget est déjà équilibré, rien ne sert de le laisser trainer par principe de ne pas dépenser. Prenez-le et allez prendre soin de vous.
+
+Qu'importe ce qui était décidé à l'avance lorsque le budget était encore prévisionnel. L'important est que votre budget s'adapte chaque jour à votre réalité tout en restant équilibré et tenant compte de vos priorités. D'ailleurs on le sait bien, il n'y a que les idiots qui ne changent pas d'avis.
+
+Axé sur les projets et non sur les dépenses
+Enfin une des choses que je ne comprends pas et qui est allée jusqu'à me pousser à créer Agatha est la place centrale donnée au suivi des dépenses. La page d'accueil est d'ailleurs généralement dédiée à un joli graphique de répartition des dépenses. 
+Pourtant savoir ce que vous dépensez n'est qu'une indication qui vous permet de mieux estimer combien d'argent vous devez répartir dans les différents pôles. L'important est plutôt de savoir comment répartir l'argent qui reste, et cela le passé ne peut pas vous le dire. 
+La plupart des outils se contentent de qualifier cet argent de 'reste à vivre' ou 'économie'. 
+Mais est il vraiment dépensable ? Quelle part doit être gardée pour des projets futurs ou pour des factures irrégulières ? 
+Certains outils proposent des "enveloppes projets". Mais si tout votre argent n'est pas réparti, comme savoir la somme que vous pouvez y mettre ? Il n'est rien de pire que d'accumuler une "épargne vacances", de tirer satisfaction du montant "économiser" pour qu'elle soit finalement sacrifiée pour payer la facture d'eau. Cette facture vous vole les vacances pour lesquelles vous aviez patiemment épargné, réduisant vos efforts et votre motivation à néant.
+Pourtant, si votre budget vous avait proposé un plan exhaustif au lieu d'une somme labélisée "économies diverses", cet argent ne vous aurait jamais créé ces fax espoirs. Même s'il n'avez pas été dépensé le mois où il a été reçu, il ne s'est jamais agit d'économie, simplement de provisions pour une dépense irréguliére. Si aviez pu le voir comme tel, vous auriez accumulé plus lentement certes, mais en toute confiance, de Vraies Economies.
+
+ConséLa seconde star est une comparaison entre les dépenses et le revenu à l'échelle du mois en cours. 
+Vous avez dépensé moins : vert. Plus : rouge. 
+
+
+
+ 
+
+
+
 <p>Never in all their history have men been able truly to conceive of the world as one: a single sphere, a globe, having the qualities of a globe, a round earth in which all the directions eventually meet, in which there is no center because every point, or none, is center — an equal earth which all men occupy as equals. The airman's earth, if free men make it, will be truly round: a globe in practice, not in theory.</p>
 
 <p>Science cuts two ways, of course; its products can be used for both good and evil. But there's no turning back from science. The early warnings about technological dangers also come from science.</p>
