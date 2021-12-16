@@ -85,10 +85,3 @@ Qu’importe ce qui était décidé à l’avance lorsque le budget était encor
 <h2 class="section-heading">Nos engagements</h2>
 
 Agatha se distingue également par les valeurs qu’elle défend. Pour en savoir plus, c’est par ici.
-
-
-<a href="#">
-    <img src="{{ site.baseurl }}/img/post-sample-image.jpg" class="img-responsive" alt="Post Sample Image">
-</a>
-<span class="caption text-muted">To go places and do things that have never been done before – that’s what living is all about.</span>
-

@@ -658,12 +658,19 @@ body {
     margin: 10px 0 0;
   }
   .post-heading {
+    
     h1 {
       font-size: 35px;
     }
     .subheading, .meta {
       line-height: 1.1;
       display: block;
+      a {
+        color: $head-primary;
+        &:hover, &:focus {
+          color: $counter-color;
+        }
+      }
     }
     .subheading {
       font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
