@@ -1,78 +1,49 @@
-# Urban
+# New Age Jekyll theme
+=========================
 
-Web Agency themed business template for Jekyll. Browse through a [live demo](https://teal-worm.cloudvent.net/).
-Increase the web presence of your agency with this configurable theme.
+# The project is no longer maintained
 
-![Urban template screenshot](images/_screenshot.png)
+## If you are a company and you're going to use the blog: 
+1. contact bootstrap start up and ask.
+2. contact me because there is to remove some useless part.
 
-Urban was made by [CloudCannon](https://cloudcannon.com/), the Cloud CMS for Jekyll.
+Jekyll theme based on [New Age bootstrap theme ](https://startbootstrap.com/template-overviews/new-age/)
 
-Find more templates, themes and step-by-step Jekyll tutorials at [CloudCannon Academy](https://learn.cloudcannon.com/).
+# Demo
+View this jekyll theme in action [here](https://jekynewage.github.io/)
 
-## Features
+## Built by
+[Antonio Trento](https://it.linkedin.com/in/antoniotrento)
 
-* Contact form
-* Pre-built pages
-* Pre-styled components
-* Blog with pagination
-* Post category pages
-* Disqus comments for posts
-* Staff and author system
-* Configurable footer
-* Optimised for editing in [CloudCannon](https://cloudcannon.com/)
-* RSS/Atom feed
-* SEO tags
-* Google Analytics
+This Jekyll template was created to develop, landing pages, squeeze pages, portfolio and blog or all the above.
 
-## Setup
+### I integrated analytical tools and marketing such as:
+- Google Ad Words
+- Google analytics
+- Disqus comment system
+- Add This social sharing
 
-1. Add your site and author details in `_config.yml`.
-2. Add your Google Analytics and Disqus keys to `_config.yml`.
-3. Get a workflow going to see your site's output (with [CloudCannon](https://app.cloudcannon.com/) or Jekyll locally).
+>>External stylesheets and libraries included are Google Fonts, Font Awesome, Normalize.CSS, and WOW.js
 
-## Develop
+In order to set your log data to applications _config.yml just open the file and find the associated items.
 
-Urban was built with [Jekyll](https://jekyllrb.com/) version 3.3.1, but should support newer versions as well.
+I also built a system to add their own names on the same company files
 
-Install the dependencies with [Bundler](https://bundler.io/):
+**To change the base colors yellow go in css folder there main.css where you can set the primary color and the secondary color, remember that the theme is gradient in the background areas**
 
-~~~bash
-$ bundle install
-~~~
 
-Run `jekyll` commands through Bundler to ensure you're using the right versions:
+If you are interested in implementing this theme please contact me without any problems I will do what is in my power to help you!
 
-~~~bash
-$ bundle exec jekyll serve
-~~~
+If you have noticed anything unusual or errors in my development I ask you kindly let me know or send a pull request!
 
-## Editing
+Any opinion and critical comment is welcome! So give us inside!
 
-Urban is already optimised for adding, updating and removing pages, staff, advice, company details and footer elements in [CloudCannon](https://app.cloudcannon.com/).
+We can get in touch by:
 
-### Posts
+1. By <a href="https://twitter.com/lantoniotrento">twitter</a>
+2. mail <a href="mailto:lantoniotrento@gmail.com">lantoniotrento[at]gmail.com</a>
+3. Via <a href="https://it.linkedin.com/in/antoniotrento">LinkedIn</a>
 
-* Add, update or remove a post in the *Posts* collection.
-* The **Staff Author** field links to members in the **Staff** collection.
-* Documentation pages are organised in the navigation by category, with URLs based on the path inside the `_docs` folder.
-* Change the defaults when new posts are created in `_posts/_defaults.md`.
+=========
 
-### Contact Form
-
-* Preconfigured to work with [CloudCannon](https://app.cloudcannon.com/), but easily changed to another provider (e.g. [FormSpree](https://formspree.io/)).
-* Sends email to the address listed in company details.
-
-### Staff
-
-* Reused around the site to save multiple editing locations.
-* Add `excluded_in_search: true` to any documentation page's front matter to exclude that page in the search results.
-
-### Footer
-
-* Exposed as a data file to give clients better access.
-* Set in the *Data* / *Footer* section.
-
-### Company details
-
-* Reused around the site to save multiple editing locations.
-* Set in the *Data* / *Company* section.
+For more details, read the [documentation](http://jekyllrb.com/)

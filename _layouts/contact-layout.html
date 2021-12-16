@@ -1,0 +1,35 @@
+---
+layout: default
+---
+
+<!-- Post Header -->
+<header id="header" class="intro-header bg-header-post text-center">
+ <!--style="background-image: url('{{ site.baseurl }}/{% if page.header-img %}{{ page.header-img }}{% else %}{{ site.header-img }}{% endif %}')"> -->
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
+              <div class="post-heading">
+                <h1>Nous sommes à votre disposition</h1>
+                <form action="https://formspree.io/f/mrgrednv" method="post" class="contact-form">
+                  <input type="text" name="_gotcha" style="display: none;" />
+                  <input type="hidden" name="_language" value="fr" />
+            
+                  <label for="name">Nom / Pseudonyme </label>
+                  <input type="text" name="last-name" id="last-name" placeholder="Lydia Becker" />
+            
+                  <label for="email">Email</label>
+                  <input type="email" name="email" id="email" placeholder="lydia@mail.fr" required />
+            
+                  <label for="message">Message</label>
+                  <textarea name="message" id="message" >
+            Bonjour, 
+            Je voudrais en savoir plus 
+                   </textarea>
+                  <input type="submit" value="Envoyer" />
+                </form>
+              </div>
+            </div>
+        </div>
+    </div>
+</header>
+<hr>

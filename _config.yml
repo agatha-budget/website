@@ -1,102 +1,37 @@
-title: Agatha
-url: "http://agatha-budget.fr"
-baseurl:
-google_analytics_key: G-E4LWE32QGQ
-google_maps_javascript_api_key: 
-disqus_shortname: agatha-budget
+# Site settings
+title: Agatha-Budget
+email: erica@agatha-budget.fr
+description: Agatha, c'est une méthode, un outil et un accompagnement personnalisé pour vous donner le contrôle de votre argent
 
-# Default description in social shares for the jekyll-seo-tag gem
-description:
+baseurl: "" # the subpath of your site, e.g. /blog/ (If you use organization leave empty)
+url: "http://agatha-budget.fr" # the base hostname & protocol for your site
 
-# Author details for the jekyll-seo-tag gem
-author:
-  name: Erica Delagnier
-  email: erica@tresorier.me
-  twitter: EDelagnier
+#Google Ad Words Data from scripts code (using Google responsive options) and ad client
+data-ad-slot: 
+data-ad-client: 
+google_ad_client: 
 
-# Social details for the jekyll-seo-tag gem
+google_analytics: 
+addthis_id: 
+disqus_account: 'delagnier'
+
+# Social networks usernames (many more available: flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.) see all icon at fontawesome.io
 social:
-  name: Agatha Budget
-  links:
-    - https://github.com/CloudCannon/urban-jekyll-template
+  - title: twitter
+    url: https://twitter.com/lantoniotrento
+  - title: facebook
+    url: https://facebook.com/lantoniotrento
+  - title: google-plus
+    url: https://plus.google.com/+AntoniotrentoIt
+  #- title: github
+  #  url: http://github.com/jekyll
 
-timezone: Etc/UTC
-
-collections:
-  staff_members:
-    output: false
-  clients:
-    output: true
-
-paginate: 10
-paginate_path: "/blog/:num/"
+# Build settings
+markdown: kramdown
+highlighter: rouge
 permalink: pretty
+paginate: 5
+exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
 
-jekyll-archives:
-  enabled:
-    - "categories"
-
-plugins:
-  - "jekyll-feed"
-  - "jekyll-seo-tag"
-  - "jekyll-paginate"
-  - "jekyll-archives"
-
-exclude:
-  - Gemfile
-  - Gemfile.lock
-  - README.md
-  - LICENCE
-
-defaults:
-  - scope:
-      path: ""
-      type: "posts"
-    values:
-      layout: "post"
-      _options:
-        content:
-          width: 960
-          height: 2000
-  - scope:
-      path: ""
-      type: "clients"
-    values:
-      layout: "client"
-      _options:
-        image_path:
-          width: 2000
-          height: 2000
-  - scope:
-      path: ""
-      type: "staff_members"
-    values:
-      _options:
-        image_path:
-          width: 600
-          height: 600
-  - scope:
-      path: ""
-      type: "pages"
-    values:
-      layout: "page"
-  - scope:
-      path: "index.html"
-      type: "pages"
-    values:
-      layout: "default"
-
-# -----------
-# CloudCannon
-
-social_icons:
-  - Facebook
-  - Instagram
-  - LinkedIn
-  - Pinterest
-  - Tumblr
-  - Twitter
-  - YouTube
-  - RSS
-
-#theme: jekyll-theme-cayman
+plugins: [jekyll-paginate, jekyll-feed]
+# Build settings
