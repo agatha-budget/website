@@ -621,9 +621,51 @@ body {
 // post styles
 
 #post {
-  li {
-    font-size: 18px;
+  text-align: justify;
+  font-size: 18px;
+
+  .post-heading {
+    font-weight: bold;
+    color: $head-primary;
   }
+
+  h3 {
+    font-weight: bold;
+    color: $head-secondary;
+  }
+
+  .aside {
+    background-color: $theme-secondary;
+    padding: 18px;
+    margin-bottom: 18px;
+    border-radius: 20px;
+    p {
+      font-size: 16px;
+      margin-bottom: 10px;     
+    }
+  }
+
+  .break {
+    h2, h3 {
+      font-weight: bold;
+      color: $theme-secondary;
+      text-align: center;
+    }
+    background: $head-primary;
+   /* fallback for old browsers */
+    background: -webkit-linear-gradient(to left, $head-primary, $head-secondary);
+    /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to left, $head-primary, $head-secondary);
+    color: white;
+    padding: 18px;
+    margin-bottom: 18px;
+
+    p {
+      font-size: 16px;
+      margin-bottom: 10px;     
+    }
+  }
+
 }
 
 .intro-header {

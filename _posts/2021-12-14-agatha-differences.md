@@ -12,7 +12,7 @@ Aujourd’hui il existe de nombreux outils et applications censés vous aider à
 
 Parmi les outils existants, on retrouve principalement deux catégories : les logiciels « avancés » inspirés du monde de la comptabilité, les feuilles Excel et les utilitaires entièrement automatiques proposés par des institutions bancaires. 
 
-<h2 class="section-heading">Facilité d’utilisation</h2>
+<h2 class="post-heading">Facilité d’utilisation</h2>
 
 Avec Agatha, c’est très simple. Vous mettez votre argent dans des enveloppes. Lorsque vous avez besoin d’une enveloppe en particulier vous utilisez l’argent qui s’y trouve et si nécessaire allez en prendre dans une autre moins importante.
 
@@ -22,7 +22,7 @@ D’autres accumulent l’argent que vous y assignez jusqu’à une date précis
 
 Pas de formules compliquées qui peuvent casser à chaque modification du fichier. Pas de convention rigide à respecter. L’interface a été pensée pour être la plus simple possible grâce à des tests auprès d’utilisateurs de tout niveau informatique.
 
-<h2 class="section-heading">Sur mesure</h2>
+<h2 class="post-heading">Sur mesure</h2>
 
 Alors que les autres outils vous proposent généralement un budget standardisé, Agatha vous accompagne dans la création d’un budget sur mesure et prenant en compte les imprévus propres à votre situation (cf : présentation de la règle 3)
 
@@ -36,7 +36,7 @@ Vous pouvez avoir autant et aussi peu d’enveloppes que vous le souhaitez, les 
 
 Votre plan est le vôtre et vous pouvez lui donner la forme que vous souhaitez. 
 
-<h2 class="section-heading">Axé sur le futur et non sur le passé</h2>
+<h2 class="post-heading">Axé sur le futur et non sur le passé</h2>
 
 Une des choses qui me surprend le plus et qui est allée jusqu’à me pousser à créer Agatha : la place centrale donnée au suivi des dépenses. La page d’accueil est d’ailleurs généralement dédiée à un joli graphique de répartition des dépenses. 
 
@@ -48,7 +48,7 @@ Chez Agatha, cet argent non dépensé est clairement identifié et assigné à u
 
 De cette façon, Agatha vous apporte un contrôle sur la situation. 
 
-<h2 class="section-heading">Réactive et bienveillante face aux imprévus</h2>
+<h2 class="post-heading">Réactive et bienveillante face aux imprévus</h2>
 
 En premier lieu, le guide d’Agatha vous permettra de prendre en compte une grande partie des imprévus. Mais pour ceux qu’il n’a pas été possible d’anticiper, grosses dépenses ou petits écarts, Agatha est conçue spécialement pour s’y adapter (cf régle 4). 
 
@@ -82,6 +82,6 @@ Imaginez un autre monde. Un monde où face à un imprévu, votre budget ne vous 
 
 Qu’importe ce qui était décidé à l’avance lorsque le budget était encore prévisionnel. L’important est que votre budget s’adapte chaque jour à votre réalité tout en restant équilibré et tenant compte de vos priorités. D’ailleurs on le sait bien, il n’y a que les idiots qui ne changent pas d’avis.
 
-<h2 class="section-heading">Nos engagements</h2>
+<h2 class="post-heading">Nos engagements</h2>
 
 Agatha se distingue également par les valeurs qu’elle défend. Pour en savoir plus, c’est par ici.

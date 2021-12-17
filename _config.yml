@@ -35,5 +35,3 @@ exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
 
 plugins: [jekyll-paginate, jekyll-feed]
 # Build settings
-
-theme: jekyll-theme-cayman
