@@ -84,4 +84,6 @@ Qu’importe ce qui était décidé à l’avance lorsque le budget était encor
 
 <h2 class="post-heading">Nos engagements</h2>
 
-Agatha se distingue également par les valeurs qu’elle défend. Pour en savoir plus, c’est par ici.
+Agatha se distingue également par les valeurs qu’elle défend.
+
+<a href="/agatha/2021/12/14/engagements/">Pour en savoir plus, c’est par ici.</a>

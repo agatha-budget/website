@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      "Guide de lancement"
-subtitle:   " Devenir meilleur avec son argent <br/> temps de lecture : 6 min"
+subtitle:   "J'ai du mal à joindre les deux bouts <br/> temps de lecture : 6 min"
 date:       2021-12-14 12:00:00
 author:     "Erica Delagnier"
 header-img: "img/post-bg-06.jpg"
@@ -20,11 +20,16 @@ En résumé dans ce guide nous allons :
 
 <h2 class="post-heading"> Acte 1 - Visez la lune</h2>
 
-Prenez le temps de réfléchir à ce qui vous motive à gérer votre argent. Est-ce pour plus de sérénité, pour concrétiser un projet, pour pouvoir dépenser sans culpabilité ?
+Lorsque le quotidien est difficile, on a souvent l'impression d'être dans un combat sans fin contre la fatalité. Mais il est important de se laisser le temps de respirer et de regarder vers l'avenir. Se fixer un but vers lequel on peut mesurer ses progrès et constater notre avancée.
+
+Un jour votre situation sera stable et Agatha et notre équipe sont là pour vous accompagner. Vous pouvez d'ailleurs faire de la stabilité votre première priorité. 
+Qu'est-ce que cela représente pour vous ? Ne plus avoir à redouter le paiement des factures ? Pouvoir  offrir des choses à vous-même ou à vos proches ? 
+Quels seraient vos projets à long terme ? Au contraire quelles sont les petites choses qui vous rendent heureux au quotidien, celles qui vous permettent de relâcher la pression et de garder le moral ? 
 
 Il n'y a pas de bonnes réponses et vous n'avez pas besoin de donner une réponse définitive. Suivez simplement votre instinct pour le moment et au fur et à mesure de votre suivi vos priorités deviendront apparentes.
 
-Une fois vos priorités identifiées, faites-les apparaitre dans votre budget sous forme d'enveloppes (filet de sécurité, loisirs favoris, projet). Ces enveloppes VIP sont celles qui maintiendront votre motivation. Ce sont celles dans lesquelles vous aurez plaisir à ajouter de l'argent chaque mois que ce soit pour l'accumuler ou pour pouvoir le dépenser.
+Une fois vos priorités identifiées, faites-les apparaitre dans votre budget sous forme d'enveloppes (filet de sécurité, loisirs favoris, projet). 
+Ces enveloppes VIP sont celles qui maintiendront votre motivation. Ce sont celles dans lesquelles vous aurez plaisir à ajouter de l'argent chaque mois que ce soit pour l'accumuler ou pour pouvoir le dépenser.
 
 <h2 class="post-heading"> Acte 2 - Anticiper. même l'imprévisible</h2>
 
@@ -44,41 +49,16 @@ Pour savoir ce que vous pourrez consacrer à vos priorités, il s'agit maintenan
 
 Passez ces frais en revue et  profitez-en pour vérifier qu'elles ont de la valeur pour vous. C'est aussi l'occasion d'identifier celle qui ne vous apporte pas de satisfaction et de les résilier ou diminuer (cet abonnement que vous n'utilisez pas, cette assurance dont vous n'êtes pas sûr de ce qu'elle couvre etc...).
 
-Votre budget pourrait paraitre terminé, mais ce n'est pas le cas. Il n'est rien de pire que d'avoir un plan, avancer sereinement vers ses objectifs et le voir s'écrouler à cause d'un retard de salaire, d'une panne ou.. de Noël :p
-Pour y faire face et rendre notre budget inébranlable, nous avons identifié 3 types d'imprévus.
-Les faux imprévus, les semi-imprévus : ces deux-là ne sont en réalité que des frais 'cachés' qui sont à prendre en compte dans l'estimation de notre train de vie. Les ignorer porte le risque de sous-estimer son train de vie, nous donnant l'impression que la situation est stable jusqu'à l'on se retrouve face au mur.
-Et les vrais imprévus : ne nous voilons pas la face, il y en a toujours, l'important est d'avoir une base solide pour leur faire face.
+Votre budget pourrait paraitre terminé, mais ce n'est pas le cas. Il n'est rien de pire que d'avoir un plan, avancer sereinement vers ses objectifs et le voir s'écrouler à cause d'un retard de salaire, d'une panne ou.. de Noël.
 
-<h3>Les faux imprévus</h3>
+Pour y faire face et rendre votre budget inébranlable, Agatha vous propose dans un premier temps de prendre un coup d'avance. Le jour où un imprévu essaye de vous prendre par surprise, cet argent vous donnera le temps de vous retourner.
 
-La rentrée, Noël, les assurances, le contrôle technique, la colo des enfants. Ce sont des frais annuels, bisannuels, biennaux, vous connaissez leurs dates et leur montant, sont-ils alors vraiment des imprévus ?
+Créez une catégorie "coup d'avance" et visez d'y accumuler petit à petit un mois de revenus. Ce filet de sécurité doit dans un premier temps devenir votre priorité. 
+Repoussez les dépenses qui peuvent l'être et réduisez les autres à l'essentiel. Ne gardez qu'un peu de marge pour les priorités qui vous rendent heureux au quotidien et vous permettent de ne pas craquer en voulant en faire trop.
 
-Rajoutez une catégorie pour chaque événement irrégulier auquel vous pouvez penser. Déterminez la somme nécessaire et divisez-la par le nombre de mois restants. Le plus souvent ces sommes ne pas si importantes une fois ramenées à leur cout mensuel alors qu'y faire face le mois même nous force à régulièrement endurer des "mois difficiles"
+Une fois ce filet en place, rendez-vous sur le guide classique pour renforcer votre budget face aux dépenses irrégulières.
 
-Quel plaisir en décembre de pouvoir réfléchir aux cadeaux que l'on veut offrir sans avoir à faire taire l'inquiétude de manquer le mois prochain ?
-
-<h3>Les semi-imprévus</h3>
-
-Une panne de téléphone, une réparation à faire sur la voiture. On ne sait pas quand cela va arriver, mais on sait bien que cela arrivera et on peut estimer le montant.
-
-Pour chaque possession dont vous savez qu'il vous faudra la remplacer ou la réparer sur-le-champ en cas de problème, évaluez leur prix, divisez par leur durée de vie potentielle et mettez de côté cette somme chaque mois.
-
-Les pannes n'arrivent jamais au bon moment, mais vous aurez justement ce qu'il faut pour payer et n'avez plus qu'à faire votre choix de remplacement !
-
-<h3>Les vrais imprévus</h3>
-
-La maladie d'un proche, un travail toxique, mais aussi le mariage de votre meilleure amie ou une occasion en or de réaliser un de vos rêves ? Il est impossible de prévoir tous les cas, mais vous pouvez vous y préparer.
-
-Créez une catégorie "coup d'avance" et visez d'y accumuler petit à petit un mois de budget : dépenses mensuelles et réserves pour les imprévus précédents. Augmentez ensuite jusqu'à six mois. 
-
-<div class="aside">
-Pourquoi six ? Parce que dans la plupart des cas, c'est ce qui permet d'assurer sa tranquillité d'esprit. Mais vous savez ce que l'on pense ici des chiffres 'taille unique' ! 
-Si nous insistons pour vous recommander au minimum un mois, nous vous engageons ensuite à réfléchir à ce qui vous semble être "suffisant".
-3 mois ? 6 mois ? 12 mois ? C'est à vous de voir selon votre personnalité et votre situation. L'important est cependant que vous vous fixiez un chiffre afin d'éviter de tomber dans le piège du perpétuel "juste un peu plus et ce sera bon" et de ne jamais pouvoir profiter du sentiment de calme qui vient avec la sensation d'avoir... assez.
- Et si vous ne savez pas qu'en penser, partez sur 6 mois et prenez le temps de mieux vous connaitre à travers la gestion de mois en mois avant de faire un choix ;)
-</div>
-
-Le jour où un imprévu essaye de vous prendre par surprise, cet argent vous donnera le temps de vous retourner.
+Vous aurez surement à utiliser votre filet dans un premier temps, mais à terme la plupart des "imprévus" auront été intégrés à votre budget et il pourra alors devenir stable et prendre pleinement son rôle de sécurité. 
 
 
 <div class="break">
@@ -103,7 +83,7 @@ Une fois connecté, ajoutez tous vos comptes bancaires et leur solde actuel.
 
 Votre budget vous indique maintenant quel montant est à votre disposition.
 
-Commencez par l'essentiel et remplissez les enveloppes dont vous avez besoin d'ici la fin du mois. Le loyer est passé (pas besoin de le provisionner) mais pas le forfait téléphone (ajoutez le montant dans l'enveloppe correspondante).
+Commencez par l'essentiel et remplissez les enveloppes dont vous avez besoin d'ici la fin du mois. Le loyer est passé (pas besoin de le provisionner), mais pas le forfait téléphone (ajoutez le montant dans l'enveloppe correspondante).
 
 Une fois le mois en cours couvert, vous pouvez répartir le reste. Assignez de l'argent à vos priorités.  Prenez de l'avance dans vos provisions. exemple : l'assurance annuelle est dans 3 mois. allouez 9/12 du prix et alléger ainsi vos frais pour les prochains mois pour les ramener au rythme "classique". Entamez ou remplissez votre épargne de sécurité (la fameuse enveloppe "coup d'avance" que nous avons vu plus haut).
 
@@ -138,10 +118,5 @@ Ces ajustements ne veulent pas dire que vous avez fait manqué à vos engagement
 Vous devrez très certainement en faire beaucoup au début puis, de semaine en mois, vous aurez une meilleure vision de vos propres besoins, réorganiserez vos priorités, en découvrirez de nouvelles jusqu'à ce que votre plan se stabilise.
 
 Quelle que soit la forme que vous ferez prendre à votre budget, Agatha est là pour vous garantir qu'il reste à l'équilibre, vous montrer clairement où se trouve l'argent et quelle est votre marge de manœuvre pour réagir face à des imprévus. 
-
-
-
-
-
 
 
