@@ -48,7 +48,7 @@ Vos données ne seront jamais vendues ni diffusées à un tiers.
 
 La seule exception envisagée serait dans le cadre d'une collaboration avec des chercheurs publics dans le domaine de la lutte contre la précarité, le surendettement et l'observatoire des inégalités. 
 
-Dans ce cas, ne seront partagées que les données des personnes ayant explicitement donné leur autorisation pour l'étude concernée. Un refus systématique pourra être donné via votre interface utilisateur.
+Dans ce cas, ne seront partagées que les données des personnes ayant explicitement donné leur autorisation pour l'étude concernée.  De plus, les résultats obtenus seront communiqués aux participants.
 
 <h2 id="noproduct" class="post-heading">Nos clients ne sont pas des produits</h2>
 

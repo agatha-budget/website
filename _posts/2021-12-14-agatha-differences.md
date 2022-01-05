@@ -40,10 +40,12 @@ Votre plan est le vôtre et vous pouvez lui donner la forme que vous souhaitez.
 
 Une des choses qui me surprend le plus et qui est allée jusqu’à me pousser à créer Agatha : la place centrale donnée au suivi des dépenses. La page d’accueil est d’ailleurs généralement dédiée à un joli graphique de répartition des dépenses. 
 
-Mais au fond, à quoi nous sert ce graphique ? Il nous permet de faire un constat a posteriori, de nous féliciter ou de nous désoler sur les efforts et écarts que nous avons faits. Mais comment pourrait il m'aider à savoir quel serait l'impact d'un week-end improvisé vis à vis de mes projets long termes ? Quelle aide peut il m'apporter dans la prise de décisions aux quotidien.
+Mais au fond, à quoi nous sert ce graphique ? Il nous permet de faire un constat a posteriori, de nous féliciter ou de nous désoler sur les efforts et écarts que nous avons faits. Mais comment pourrait il m'aider à savoir quel serait l'impact d'un week-end improvisé vis à vis de mes projets long termes ? Quelle aide peut il m'apporter dans la prise de décisions aux quotidien ?
+
 Bien évidemment, observer le passé est nécessaire pour améliorer vos estimations et le suivi des dépenses est ce qui vous permettra de vous assurer que votre budget ne devient pas obsolète. Mais il s’agit là d’un moyen et non d’une fin.
 
-Agatha met au contraire l’accent sur l’argent restant. Ce reste à vivre qui n’est souvent que mentionné et pour lequel le seul indicateur est que « plus il y en a mieux c’est ». 
+Agatha met au contraire l’accent sur l’argent restant. Ce reste à vivre qui n’est souvent que mentionné et pour lequel le seul indicateur est que « plus il y en a mieux c’est ».
+
 Chez Agatha, cet argent non dépensé est clairement identifié et assigné à un rôle. Celui-là servira à faire des provisions pour des dépenses irrégulières. Celui-ci constitue une épargne de sécurité qui doit être préservée. Celui-là encore est mis de côté pour un projet à long terme. Et celui-ci enfin est dépensable quand il vous plaira dans ce qui vous fera plaisir (notamment pour ce week-end improvisé auquel on réfléchissait plus haut).
 
 De cette façon, Agatha vous apporte un contrôle sur la situation. 
@@ -66,24 +68,24 @@ Quand bien même vous avez les meilleures raisons du monde de dépasser des limi
 
 <ul>
     <li> Vous avez eu besoin d’argent pour aller aider un proche : c’est gentil de votre part, mais pour votre budget… perdu</li> 
-    <li> Vous n’avez pas dépensé dans ce qui vous rend heureux : c’est dommage, mais pour votre budget… bravo !</li> 
+    <li> Vous n’avez pas osé dépenser dans ce qui vous rend heureux et votre moral en pâtit: c’est dommage, mais pour votre budget… bravo !</li> 
 </ul>
 
 Ces messages contreproductifs ne font que vous éloigner de votre argent. Le budget devient l’ennemi. Celui pour qui il faut se sacrifier et qu’il faut défier lorsque vous n’avez plus le choix.
 
-Votre budget ne doit pas être au service de votre compte en banque, mais au vôtre. Cela peut impliquer d’économiser, mais cela reste un moyen et non une fin.
+Votre budget ne doit pas être au service de votre compte en banque, mais au vôtre ! Cela peut impliquer d’économiser, mais cela reste un moyen et non une fin.
 
 Imaginez un autre monde. Un monde où face à un imprévu, votre budget ne vous oblige pas à rester pieds et mains liés par des engagements obsolètes, mais se met à votre disposition pour vous permettre de réagir ?
 
 <ul>
     <li>Un proche a besoin d’aide. Pas de problème, vous avez un peu d’avance dans votre épargne vacances et cette personne est plus importante. Prenez ce qui vous manque et bon courage à vous deux.</li> 
-    <li>Vous n’avez pas dépensé cet argent que vous aviez prévu pour vous. Voulez-vous le garder pour vous faire plaisir plus tard ? Y a-t-il un besoin plus important auquel il doit répondre ? Le reste de votre budget est déjà équilibré, rien ne sert de le laisser trainer par principe de ne pas dépenser. Prenez-le et allez prendre soin de vous.</li> 
+    <li>Vous n’avez pas dépensé cet argent que vous aviez prévu pour vous. Voulez-vous le garder pour vous faire plaisir plus tard ? Y a-t-il un besoin plus important auquel il doit répondre ? Si le reste de votre budget est déjà équilibré, rien ne sert de le laisser trainer par principe de ne pas dépenser. Prenez-le et allez prendre soin de vous.</li> 
 </ul>
 
 Qu’importe ce qui était décidé à l’avance lorsque le budget était encore prévisionnel. L’important est que votre budget s’adapte chaque jour à votre réalité tout en restant équilibré et tenant compte de vos priorités. D’ailleurs on le sait bien, il n’y a que les idiots qui ne changent pas d’avis.
 
 <h2 class="post-heading">Nos engagements</h2>
 
-Agatha se distingue également par les valeurs qu’elle défend.
+Entreprise engagée, Agatha se distingue également par les valeurs qu’elle défend.
 
 <a href="{{ site.baseurl }}/agatha/2021/12/14/engagement/">Pour en savoir plus, c’est par ici.</a>
