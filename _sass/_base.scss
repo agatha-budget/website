@@ -627,11 +627,31 @@ body {
   .post-heading {
     font-weight: bold;
     color: $head-primary;
+    text-align: center;
+  }
+
+  a {
+    color: $head-primary;
+    font-weight: bold;
   }
 
   h3 {
     font-weight: bold;
     color: $head-secondary;
+  }
+
+  h4 {
+    font-weight: bold;
+    color: $head-secondary;
+  }
+
+  .icon {
+      font-size: 80px;
+      background: -webkit-linear-gradient(to left, $head-primary, $head-secondary);
+      background: linear-gradient(to left, $head-primary, $head-secondary);
+      -webkit-background-clip: text;
+      -webkit-text-fill-color: transparent;
+      text-align: center;
   }
 
   .aside {
