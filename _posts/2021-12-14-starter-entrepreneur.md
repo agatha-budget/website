@@ -26,7 +26,7 @@ Nous ferons également une parenthèse sur :
 <h4>Et mon comptable alors ?</h4>
 <p>Le rôle de votre comptable est de présenter un compte rendu clair et exhaustif de votre activité notamment afin d'en garantir la légalité vis-à-vis de l'État.</p>
 <p>Le suivi régulier que cela implique le met effectivement dans une position privilégiée pour vous conseiller dans vos choix financiers, cependant cela ne fait pas forcément partie de ses responsabilités.</p>
-<p>Cependant si votre comptable vous assiste dans la prise de décision, Agatha reste un atout pour vous permettre de visualiser ensemble les impacts à prévoir et les besoins pour la mise en place d'un financement de projets</p>
+<p>De plus, si votre comptable vous assiste dans la prise de décision, Agatha est l'outil idéal pour vous permettre de visualiser ensemble les impacts à prévoir et les besoins pour la mise en place d'un financement de projets</p>
 </div>
   
 

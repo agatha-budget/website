@@ -14,9 +14,9 @@ Ces choix ont un impact sur la rentabilité comme sur les fonctionnalités de l'
 
 <h2 class="post-heading">Anonyme</h2>
 
-Agatha est anonyme. Pour créer votre compte, vous n'aurez besoin que d'une adresse email et d'un pseudonyme. Le pseudonyme n'est là que pour faciliter les potentiels échanges avec entre vous, l'équipe d'Agatha et à terme la communauté d’autres utilisateurs.
+Agatha est anonyme. Pour créer votre compte, vous n'aurez besoin que d'une adresse email et d'un pseudonyme. Le pseudonyme n'est là que pour faciliter les potentiels échanges avec l'équipe d'Agatha et est entièrement libre. Si vous avez toujours eu envie d'être salué en tant que Son Altesse Sérénissime, c'est l'occasion ;)
 
-Pour le paiement, une carte bancaire vous est demandée ce qui implique de donner le nom de son détenteur. Cette information n'est stockée que sur le serveur de notre prestataire de paiement (Stripe) et n'est jamais mise en relation avec les informations que vous entrerez dans Agatha.
+Pour le paiement, une carte bancaire vous est demandée ce qui implique de donner le nom de son détenteur. Nous n'avons malheureusement pas d'alternative sur ce point là. Cette information n'est stockée que sur le serveur de notre prestataire de paiement (<a href="https://stripe.com/fr">Stripe</a>) et n'est jamais mise en relation avec les informations que vous entrerez dans Agatha.
 
 <h2 class="post-heading">Accessible à tous</h2>
 
@@ -36,11 +36,11 @@ Agatha est un service en ligne, cependant nous faisons de notre mieux pour propo
 
 <h3>Handicap moteur ou visuel</h3>
 
-Un autre de nos points d'attention est l'accessibilité aux personnes en situation de handicap. Claire et moi nous penchons actuellement sur le sujet et collaborerons avec des acteurs du milieu pour la création si nécessaire d'un mode d'utilisation spécifique.
+Un autre de nos points d'attention est l'accessibilité aux personnes en situation de handicap. Nous nous penchons actuellement sur le sujet et collaborerons avec des acteurs du milieu pour la création si nécessaire d'un mode d'utilisation spécifique.
 
 <h3>Tout support</h3>
 Agatha est une application web, accessible via votre navigateur. 
-D'ici quelques semaines, elle s'adaptera également à votre écran de tablette comme à celui de votre téléphone (merci à Claire qui travaille là-dessus sur le bureau d'à côté )
+D'ici quelques semaines, elle s'adaptera également à votre écran de tablette comme à celui de votre téléphone (merci à Claire qui travaille là-dessus en ce moment même)
 
 <h2 class="post-heading">Respect total de votre vie privée</h2>
 
