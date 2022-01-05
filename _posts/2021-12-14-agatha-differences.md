@@ -86,4 +86,4 @@ Qu’importe ce qui était décidé à l’avance lorsque le budget était encor
 
 Agatha se distingue également par les valeurs qu’elle défend.
 
-<a href="/agatha/2021/12/14/engagements/">Pour en savoir plus, c’est par ici.</a>
+<a href="{{ site.baseurl }}/agatha/2021/12/14/engagement/">Pour en savoir plus, c’est par ici.</a>

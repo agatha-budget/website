@@ -1,9 +1,10 @@
 ---
 layout:     post
 title:      "Guide de lancement"
-subtitle:   " Devenir meilleur avec son argent <br/> temps de lecture : 6 min"
+subtitle:   " Devenir meilleur avec son argent"
 date:       2021-12-14 12:00:00
 author:     "Erica Delagnier"
+time:       "6 min"
 header-img: "img/post-bg-06.jpg"
 categories: agatha
 ---

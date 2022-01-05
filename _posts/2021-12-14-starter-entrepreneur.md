@@ -1,9 +1,10 @@
 ---
 layout:     post
 title:      "Guide de lancement"
-subtitle:   " Je veux gérer la tresorerie de mon entreprise <br/> temps de lecture : 10 min"
+subtitle:   " Je veux gérer la trésorerie de mon entreprise"
 date:       2021-12-14 12:00:00
 author:     "Erica Delagnier"
+time:       "10 min"
 header-img: "img/post-bg-06.jpg"
 categories: agatha
 ---

@@ -13,6 +13,9 @@ layout: default
                 {% if page.subtitle %}
                 <h2 class="subheading">{{ page.subtitle }}</h2>
                 {% endif %}
+                {% if page.time %}
+                <p class="meta">Temps de lecture estimé : {{ page.time }}</p>
+                {% endif %}
                 <p class="meta">Publié par {% if page.author %}{{ page.author }}{% else %}{{ site.title }}{% endif %}</p>
                 <a href="#post" class="page-scroll"><i class="fa fa-fw fa-2x fa-arrow-down"></i></a>
               </div>
