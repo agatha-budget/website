@@ -37,7 +37,7 @@ Ces enveloppes VIP sont celles qui maintiendront votre motivation. Ce sont celle
 
 <h3>Les réguliers</h3>
 
-Pour savoir ce que vous pourrez consacrer à vos priorités, il s'agit maintenant de faire le point sur le reste de vos dépenses. C'est là qu'entre en jeu les fameuses "charges" si souvent vues comme centrale dans le budget (ici, elles cèdent les projecteurs à vos priorités !). 
+Pour savoir ce que vous pourrez consacrer à vos priorités, il s'agit maintenant de faire le point sur le reste de vos dépenses. C'est là qu'entre en jeu les fameuses "charges" si souvent vues comme centrales dans le budget (ici, elles cèdent les projecteurs à vos priorités !). 
 
 Listez ce que votre argent doit faire chaque mois. 
 
@@ -135,7 +135,10 @@ Une fois le mois en cours couvert, vous pouvez répartir le reste :
 <ul>
 <li>Assignez de l'argent à vos priorités.</li>
 
-<li>Prenez de l'avance dans vos provisions. exemple : l'assurance annuelle est dans 3 mois. Allouez 9/12ème du prix et alléger ainsi vos frais pour les prochains mois pour les ramener au rythme "classique". </li>
+<li>Prenez de l'avance dans vos provisions. exemple : l'assurance annuelle est dans 3 mois. Allouez 9/12ème du prix et alléger ainsi vos frais pour les prochains mois pour les ramener au rythme "classique". 
+
+Si vous n'avez pas assez pour le moment, pas de panique, vos mensualités seront un peu plus élevées pour commencer, mais vous pourrez ensuite revenir à un douzième du prix chaque mois pour le prochain cycle.
+</li>
 
 <li>Entamez ou remplissez votre épargne de sécurité (la fameuse enveloppe "coup d'avance" que nous avons vu plus haut).</li>
 </ul>
