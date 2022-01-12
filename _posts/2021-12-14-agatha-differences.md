@@ -1,14 +1,14 @@
 ---
 layout:     post
-title:      "Pourquoi choisir Agatha"
-subtitle:   "aller au dela du suivi des dépenses"
+title:      "Pourquoi choisir Agatha ?"
+subtitle:   "aller au-delà du suivi des dépenses"
 date:       2021-12-14 12:00:00
 author:     "Erica Delagnier"
 header-img: "img/post-bg-06.jpg"
 categories: agatha
 ---
 
-Aujourd’hui il existe de nombreux outils et applications censés vous aider à gérer votre argent. Mais pourquoi Agatha est-elle différente ?
+Aujourd’hui il existe de nombreux outils et applications censés vous aider à gérer votre argent. Mais en quoi Agatha est-elle différente ?
 
 Parmi les outils existants, on retrouve principalement deux catégories : les logiciels « avancés » inspirés du monde de la comptabilité, les feuilles Excel et les utilitaires entièrement automatiques proposés par des institutions bancaires. 
 
@@ -24,23 +24,22 @@ Pas de formules compliquées qui peuvent casser à chaque modification du fichie
 
 <h2 class="post-heading">Sur mesure</h2>
 
-Alors que les autres outils vous proposent généralement un budget standardisé, Agatha vous accompagne dans la création d’un budget sur mesure et prenant en compte les imprévus propres à votre situation (cf : présentation de la règle 3)
+Alors que les autres outils vous proposent généralement un budget standardisé, Agatha vous accompagne dans la création d’un budget sur mesure et prenant en compte les imprévus propres à votre situation
 
 Vous pouvez avoir autant et aussi peu d’enveloppes que vous le souhaitez, les nommer, les remplacer, les archiver aussi souvent que l’envie vous en prend. Et cette souplesse vous permet d’aller plus loin dans la gestion de votre argent, par exemple :
 
 <ul>
     <li>Affiner pendant quelques mois votre observation des dépenses alimentaires en séparant le marché/la viande/les fast foods du reste puis les regrouper à nouveau lorsque vous avez pris vos marques dans votre nouvelle routine alimentaire</li> 
     <li>Séparer les loisirs entre ceux qui sont importants pour vous et les loisirs « divers ». Cela vous permet de vous assurer que votre argent et vous êtes sur la même page. On se prive souvent sur qui nous tient à cœur, sans réaliser ce qui est parti en microachat divers ou en sorties que l’on n’avait pas plus envie que ça de faire.</li> 
-    <li>etc ...</li> 
 </ul>
 
 Votre plan est le vôtre et vous pouvez lui donner la forme que vous souhaitez. 
 
 <h2 class="post-heading">Axé sur le futur et non sur le passé</h2>
 
-Une des choses qui me surprend le plus et qui est allée jusqu’à me pousser à créer Agatha : la place centrale donnée au suivi des dépenses. La page d’accueil est d’ailleurs généralement dédiée à un joli graphique de répartition des dépenses. 
+Une des choses qui me surprend le plus et qui est allée jusqu’à me pousser à créer Agatha : la place centrale donnée au suivi des dépenses. La page d’accueil de la plupart des outils est d’ailleurs généralement dédiée à un joli graphique de répartition des dépenses. 
 
-Mais au fond, à quoi nous sert ce graphique ? Il nous permet de faire un constat a posteriori, de nous féliciter ou de nous désoler sur les efforts et écarts que nous avons faits. Mais comment pourrait il m'aider à savoir quel serait l'impact d'un week-end improvisé vis à vis de mes projets long termes ? Quelle aide peut il m'apporter dans la prise de décisions aux quotidien ?
+Mais au fond, à quoi nous sert ce graphique ? Il nous permet de faire un constat a posteriori, de nous féliciter ou de nous désoler sur les efforts et écarts que nous avons faits. Mais comment pourrait il m'aider à savoir quel serait l'impact d'un week-end improvisé vis à vis de mes projets long terme ? Quelle aide peut il m'apporter dans la prise de décisions au quotidien ?
 
 Bien évidemment, observer le passé est nécessaire pour améliorer vos estimations et le suivi des dépenses est ce qui vous permettra de vous assurer que votre budget ne devient pas obsolète. Mais il s’agit là d’un moyen et non d’une fin.
 
@@ -56,26 +55,26 @@ En premier lieu, le guide d’Agatha vous permettra de prendre en compte une gra
 
 Visualisez immédiatement dans quelles enveloppes il vous reste de l’argent et transvasez le nécessaire selon vos priorités. Certes vous devrez peut-être revoir certains projets à la baisse, mais c’est un choix que vous ferez en pleine conscience de ce que vous sacrifiez et de ce pour quoi vous le sacrifiez. Et si à y réfléchir, vous préférez laisser l'argent où il est, le réaliser avant la dépense vous permet de ne pas faire de compromis inutile.
 
-À l’inverse pour tous les outils francophones que j’ai pu tester, le manque de visibilité sur le reste à vivre entraine un même biais : celui de la privation par principe et du sentiment d'échec.
+À l’inverse pour tous les outils francophones que j’ai pu tester, le manque de visibilité sur le reste à vivre entraîne un même biais : celui de la privation par principe et du sentiment d'échec.
 
 <ul>
     <li> Vous approchez de la limite que vous aviez prévue, on vous le signale et vous demande de bien vouloir vous restreindre pour respecter cet « engagement » </li>
     
-    <li> Vous l’avez dépassé ? Échec et mat. Vous avez échoué, retentez le mois prochain (puis le suivant.). </li> 
+    <li> Vous l’avez dépassé ? Échec et mat. Vous avez échoué, retentez le mois prochain (puis le suivant). </li> 
 </ul>
 
 Quand bien même vous avez les meilleures raisons du monde de dépasser des limites décidées avant que vous ayez toutes les informations nécessaires (ou pire imposé par des pourcentages jugés universels), le jugement est sans appel. Vous avez perdu.
 
 <ul>
     <li> Vous avez eu besoin d’argent pour aller aider un proche : c’est gentil de votre part, mais pour votre budget… perdu</li> 
-    <li> Vous n’avez pas osé dépenser dans ce qui vous rend heureux et votre moral en pâtit: c’est dommage, mais pour votre budget… bravo !</li> 
+    <li> Vous n’avez pas osé dépenser dans ce qui vous rend heureux et votre moral en pâti: c’est dommage, mais pour votre budget… bravo !</li> 
 </ul>
 
 Ces messages contreproductifs ne font que vous éloigner de votre argent. Le budget devient l’ennemi. Celui pour qui il faut se sacrifier et qu’il faut défier lorsque vous n’avez plus le choix.
 
 Votre budget ne doit pas être au service de votre compte en banque, mais au vôtre ! Cela peut impliquer d’économiser, mais cela reste un moyen et non une fin.
 
-Imaginez un autre monde. Un monde où face à un imprévu, votre budget ne vous oblige pas à rester pieds et mains liés par des engagements obsolètes, mais se met à votre disposition pour vous permettre de réagir ?
+Imaginez un autre monde. Un monde où face à un imprévu, votre budget ne vous oblige pas à rester pieds et mains liées par des engagements obsolètes, mais se met à votre disposition pour vous permettre de réagir ?
 
 <ul>
     <li>Un proche a besoin d’aide. Pas de problème, vous avez un peu d’avance dans votre épargne vacances et cette personne est plus importante. Prenez ce qui vous manque et bon courage à vous deux.</li> 

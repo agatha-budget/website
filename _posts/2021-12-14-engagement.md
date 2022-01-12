@@ -9,7 +9,7 @@ categories: agatha
 Lorsque j'ai créé Agatha, mon premier critère était que le logiciel réponde au minimum à mes propres exigences en tant qu'utilisatrice. 
 Ces choix ont un impact sur la rentabilité comme sur les fonctionnalités de l'outil, mais je considère qu'ils restent prioritaires et à ce titre m'engage auprès de vous à toujours les respecter.
 
-<div class="aside">Note : Lors de la création de l'entreprise, nous avons pris les engagements juridiques requis par l'agrément ESUS (Entreprise solidaire d'utilité sociale). Nous ferons la demande officielle de l'agrément dès que nous aurons les 1 ans d'existence requis. On vous tient au courant !
+<div class="aside">Note : Lors de la création de l'entreprise, nous avons pris les engagements juridiques requis par l'agrément ESUS (Entreprise solidaire d'utilité sociale). Nous ferons la demande officielle de l'agrément dès que nous aurons les douze mois d'existence requis. On vous tient au courant !
 </div>
 
 <h2 class="post-heading">Anonyme</h2>
@@ -22,7 +22,7 @@ Pour le paiement, une carte bancaire vous est demandée ce qui implique de donne
 
 <h3>Aide au paiement</h3>
  
-Agatha est un service payant <a href="#noproduct">(cf. Nos clients ne sont pas des produits)</a>, mais il est important pour nous qu'il soit accessible même aux foyers modestes. En effet, s'ils gèrent en moyenne mieux leur argent, ils gérent cependant en "mode difficile", devant tout optimiser et faisant face à des conséquences plus importantes en cas de faux pas.
+Agatha est un service payant <a href="#noproduct">(cf. Nos clients ne sont pas des produits)</a>, mais il est important pour nous qu'il soit accessible même aux foyers modestes. En effet, s'ils gèrent en moyenne mieux leur argent, ils le gérent cependant en "mode difficile", devant tout optimiser et faisant face à des conséquences plus importantes en cas de faux pas.
 
 Notre but est d'alléger au maximum ce qui autrement serait un travail de tous les instants. 
 
@@ -32,15 +32,14 @@ Je (Erica Delagnier, fondatrice d'Agatha) suis également responsable départeme
 
 <h3>Fracture numérique</h3>
 
-Agatha est un service en ligne, cependant nous faisons de notre mieux pour proposer une interface minimaliste, allant à l'essentiel et pouvant ainsi être plus facilement prises en main par des personnes n'ayant pas d'affinité avec l'informatique. Tout retour d'expérience de votre part est bienvenu.
+Agatha est un service en ligne, cependant nous faisons de notre mieux pour proposer une interface minimaliste, allant à l'essentiel et pouvant ainsi être plus facilement prise en main par des personnes n'ayant pas d'affinité avec l'informatique. Tout retour d'expérience de votre part est bienvenu.
 
 <h3>Handicap moteur ou visuel</h3>
 
-Un autre de nos points d'attention est l'accessibilité aux personnes en situation de handicap. Nous nous penchons actuellement sur le sujet et collaborerons avec des acteurs du milieu pour la création si nécessaire d'un mode d'utilisation spécifique.
+Un autre de nos points d'attention est l'accessibilité aux personnes en situation de handicap. Nous nous penchons actuellement sur le sujet et collaborerons avec des acteurs du milieu pour la création, si nécessaire, d'un mode d'utilisation spécifique.
 
 <h3>Tout support</h3>
-Agatha est une application web, accessible via votre navigateur. 
-D'ici quelques semaines, elle s'adaptera également à votre écran de tablette comme à celui de votre téléphone (merci à Claire qui travaille là-dessus en ce moment même)
+Agatha est une application web. Elle est donc accessible via ordinateur, smartphone et tablette.
 
 <h2 class="post-heading">Respect total de votre vie privée</h2>
 
@@ -56,9 +55,9 @@ En tant qu'utilisateur, vous êtes la priorité de notre service.
 
 C'est pourquoi nous avons fait le choix de rester indépendants de toute structure bancaire, financeurs externes ou publicitaires. Nous ne vendons ni votre clientèle, ni vos données, ni votre attention. 
 
-C'est ce parti pris qui a impliqué notre choix de proposer un service payant. Vous avoir comme seule source de revenus nous permet de n'avoir aucun conflit d'intérêts vis-à-vis du service que nous vous proposons. 
+C'est ce parti pris qui a impliqué notre choix de proposer un service payant. Être notre seule source de revenus vous assure que nous n'avons aucun conflit d'intérêts vis-à-vis du service que nous vous proposons. 
 
-Notre viabilité est dépendante de votre satisfaction. Et c'est tout !
+Notre viabilité est dépendante de votre satisfaction, et c'est tout !
 
 
 

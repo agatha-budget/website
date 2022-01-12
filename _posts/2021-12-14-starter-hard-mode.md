@@ -27,16 +27,16 @@ En résumé dans ce guide nous allons :
 Lorsque le quotidien est difficile, on a souvent l'impression d'être dans un combat sans fin contre la fatalité. Mais il est important de se laisser le temps de respirer et de regarder vers l'avenir. Se fixer un but vers lequel on peut mesurer ses progrès et constater notre avancée.
 
 Un jour votre situation sera stable. Vous pouvez d'ailleurs faire de la stabilité votre première priorité. 
-Qu'est-ce que cela représente pour vous ? Ne plus avoir à redouter le paiement des factures ? Pouvoir  offrir des choses à vous-même ou à vos proches ? 
+Qu'est-ce que cela représente pour vous ? Ne plus avoir à redouter le paiement des factures ? Pouvoir  offrir des cadeaux à vos proches ou à vous-même ? 
 Quels seraient vos projets à long terme ? Au contraire quelles sont les petites choses qui vous rendent heureux au quotidien, celles qui vous permettent de relâcher la pression et de garder le moral ? 
 
-Il n'y a pas de bonnes réponses et vous n'avez pas besoin de donner une réponse définitive. Suivez simplement votre instinct pour le moment et au fur et à mesure de votre suivi vos priorités deviendront apparentes.
+Il n'y a pas de bonne réponse et vous n'avez pas besoin de donner une réponse définitive. Suivez simplement votre instinct pour le moment et au fur et à mesure de votre suivi vos priorités deviendront apparentes.
 
-Une fois vos priorités identifiées, faites-les apparaitre dans votre budget sous forme d'enveloppes (filet de sécurité, loisirs favoris, projet). 
-Ces enveloppes VIP sont celles qui maintiendront votre motivation. Ce sont celles dans lesquelles vous aurez plaisir à ajouter de l'argent chaque mois que ce soit pour l'accumuler ou pour pouvoir le dépenser.
+Une fois vos priorités identifiées, faites-les apparaître dans votre budget sous forme d'enveloppes (filet de sécurité, loisirs favoris, projet...). 
+Ces enveloppes privilégiées sont celles qui maintiendront votre motivation. Ce sont celles dans lesquelles vous aurez plaisir à ajouter de l'argent chaque mois que ce soit pour l'accumuler ou pour pouvoir le dépenser.
 
 <h2 class="icon icon-eye text-primary"></h2>
-<h2 class="post-heading"> Acte 2 - Anticiper. même l'imprévisible</h2>
+<h2 class="post-heading"> Acte 2 - Anticiper. Même l'imprévisible</h2>
 
 <h3>Les réguliers</h3>
 
@@ -49,27 +49,27 @@ Listez ce que votre argent doit faire chaque mois.
 
 <p>Notre conseil, prenez le temps de les reconsidérer sous un nouveau jour.</p>
 
-<p>Ces "charges" ne sont pas vos ennemis. Si l'on pense souvent à ce qu'elles nous coutent, notre esprit perd généralement de vue ce qu'elles nous apportent. </p>
+<p>Ces "charges" ne sont pas vos ennemies. Si l'on pense souvent à ce qu'elles nous coûtent, notre esprit perd généralement de vue ce qu'elles nous apportent. </p>
 
 <p>Payer votre loyer, c'est vous offrir un endroit à vous, un cocon confortable où passer du temps avec vos amis ou votre famille. </p>
 
-<p>Si le prix ne vous parait pas en valoir la chandelle et que le payer est frustrant pour vous, la solution est de créer un projet (nouvelle priorité ?) pour vous permettre de déménager lorsque ce sera possible. </p>
+<p>Si le prix ne vous paraît pas en valoir la chandelle et que le payer est frustrant pour vous, la solution est de cérer un projet (nouvelle priorité ?) pour vous permettre de déménager lorsque ce sera possible. </p>
 </div>
 
 Passez ces frais en revue et  profitez-en pour vérifier qu'ils ont de la valeur pour vous. C'est aussi l'occasion d'identifier ceux qui ne vous apportent pas de satisfaction et de les résilier ou diminuer (cet abonnement que vous n'utilisez pas, cette assurance redondante, ces sorties bureau que vous faites par pression sociale plutôt que par réelle envie, etc.).
 
 <h3>Le filet de sécurité</h3>
 
-Votre budget pourrait paraitre terminé, mais ce n'est pas le cas ! Il n'est rien de pire que d'avoir un plan, avancer sereinement vers ses objectifs et le voir s'écrouler à cause d'un retard de la CAF, d'une panne ou.. de Noël.
+Votre budget pourrait paraître terminé, mais ce n'est pas le cas ! Il n'est rien de pire que d'avoir un plan, avancer sereinement vers ses objectifs et le voir s'écrouler à cause d'un retard de la CAF, d'une panne ou... de Noël.
 
 Pour y faire face et rendre votre budget inébranlable, Agatha vous propose dans un premier temps de prendre un coup d'avance. Le jour où un imprévu essaye de vous prendre par surprise, cet argent vous donnera le temps de vous retourner.
 
-Créez une catégorie "coup d'avance" et visez d'y accumuler petit à petit un mois de revenus. Ce filet de sécurité doit dans un premier temps devenir votre priorité. 
+Créez une enveloppe "coup d'avance" et visez d'y accumuler petit à petit un mois de revenus. Ce filet de sécurité doit dans un premier temps devenir votre priorité. 
 Repoussez les dépenses qui peuvent l'être et réduisez les autres à l'essentiel. Ne gardez qu'un peu de marge pour les priorités qui vous rendent heureux au quotidien et vous permettent de ne pas craquer en voulant en faire trop.
 
 <b>Une fois ce filet en place, rendez-vous sur le guide classique pour renforcer votre budget face aux dépenses irrégulières.</b>
 
-Vous aurez surement à utiliser votre filet dans un premier temps, mais à terme la plupart des "imprévus" auront été intégrés à votre budget et il pourra alors devenir stable et prendre pleinement son rôle de mesure de sécurité. 
+Vous aurez sûrement à utiliser votre filet dans un premier temps, mais à terme la plupart des "imprévus" auront été intégrés à votre budget et il pourra alors devenir stable et prendre pleinement son rôle de mesure de sécurité. 
 
 
 <div class="break">
@@ -91,7 +91,7 @@ Une fois connecté, ajoutez tous vos comptes bancaires et leur solde actuel.
 <h4>Comment gérer mes différents comptes bancaires ?</h4>
 <p>Avec Agatha, leur montant respectif n'a plus d'importance.</p>
 <p>L'objectif est simplement de s'assurer qu'ils ne passeront pas dans le négatif (à choisir autant garder l'argent pour vous plutôt qu'en faire cadeau à votre banquier) et que l'argent dormant reste de préférence sur les comptes les mieux rémunérés.</p>
-<p>Si vos comptes avaient des rôles différents, ces responsabilités se traduiront maintenant en enveloppes, vous donnant une maitrise plus précise et plus souple.</p>
+<p>Si vos comptes avaient des rôles différents, ces responsabilités se traduiront maintenant en enveloppes, vous donnant une maîtrise plus précise et plus souple.</p>
 </div>
 
 Votre budget vous indique maintenant quel montant est à votre disposition.
@@ -110,7 +110,7 @@ Si vous n'avez pas assez pour le moment, pas de panique, vos mensualités seront
 
 <li>Entamez ou remplissez votre épargne de sécurité (la fameuse enveloppe "coup d'avance" que nous avons vu plus haut).</li>
 </ul>
-L'objectif est de ne pas laisser d'argent "qui traine" et dont vous ne savez pas ce que vous pouvez et ne pouvez pas faire.
+L'objectif est de ne pas laisser d'argent "qui traîne" et dont vous ne savez pas ce que vous pouvez et ne pouvez pas faire.
 
 <div class="aside">
 <h4>Vivre selon ses moyens ?</h4>
@@ -135,7 +135,7 @@ Afin de pouvoir compter sur votre budget dans vos décisions, il est nécessaire
 Dans votre page d'accueil, vous pourrez ainsi vérifier à tout moment quel montant reste disponible dans chaque enveloppe. 
 
 <ul>
-<li>S'il y a du rab à la fin du mois, cha-ching, reversez cette somme vers vos priorités</li>
+<li>S'il y a du rab à la fin du mois, Victoire !, reversez cette somme vers vos priorités</li>
 
 <li>Si vous avez dépassé le montant disponible d'une enveloppe, regardez dans lesquelles vous préférez piocher et esquiver simplement le problème en transvasant le nécessaire.</li>
 
@@ -143,6 +143,6 @@ Dans votre page d'accueil, vous pourrez ainsi vérifier à tout moment quel mont
 </ul>
 
 Ces ajustements ne veulent pas dire que vous avez manqué à vos engagements, il s'agit simplement d'occasions pour que votre plan s'améliore progressivement et se mette au service de votre vie. 
-Vous devrez très certainement en faire beaucoup au début puis, de semaine en mois, vous aurez une meilleure vision de vos propres besoins, réorganiserez vos priorités, en découvrirez de nouvelles jusqu'à ce que votre plan se stabilise.
+Vous devrez très certainement en faire beaucoup au début puis, de semaine en mois, vous aurez une meilleure vision de vos propres besoins, réorganiserez vos priorités et en découvrirez de nouvelles jusqu'à ce que votre plan se stabilise.
 
 Quelle que soit la forme que vous ferez prendre à votre budget, Agatha est là pour vous garantir qu'il reste à l'équilibre, vous montrer clairement où se trouve l'argent et quelle est votre marge de manœuvre pour réagir face à des imprévus. 
