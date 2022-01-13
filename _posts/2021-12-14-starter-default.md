@@ -22,7 +22,7 @@ En résumé dans ce guide nous allons :
 </ul>
 
 <h2 class="icon icon-rocket text-primary"></h2>
-<h2 class="post-heading"> Acte 1 - Visez la lune</h2>
+<h2 class="post-heading"> Acte 1 - Viser la lune</h2>
 
 Prenez le temps de réfléchir à ce qui vous motive à gérer votre argent. Est-ce pour plus de sérénité, pour concrétiser un projet, pour pouvoir dépenser sans culpabilité ?
 

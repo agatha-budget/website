@@ -33,7 +33,7 @@ Nous ferons également une parenthèse sur :
   
 
 <h2 class="icon icon-rocket text-primary"></h2>
-<h2 class="post-heading">Acte 1 - Visez la lune</h2>
+<h2 class="post-heading">Acte 1 - Viser la lune</h2>
 
 La philosophie d'Agatha est de toujours garder ses priorités au premier plan et le fait que ce budget soit celui d'une entreprise n'y change rien. 
 Quelles sont vos ambitions pour votre entreprise ? Quels sont les projets pour lesquels vous souhaiteriez avoir des fonds ? N'oubliez pas d'inclure par exemple vos propres revenus !

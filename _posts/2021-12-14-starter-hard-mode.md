@@ -22,7 +22,7 @@ En résumé dans ce guide nous allons :
 
 
 <h2 class="icon icon-rocket text-primary"></h2>
-<h2 class="post-heading">Acte 1 - Visez la lune</h2>
+<h2 class="post-heading">Acte 1 - Viser la lune</h2>
 
 Lorsque le quotidien est difficile, on a souvent l'impression d'être dans un combat sans fin contre la fatalité. Mais il est important de se laisser le temps de respirer et de regarder vers l'avenir. Se fixer un but vers lequel on peut mesurer ses progrès et constater notre avancée.
 
