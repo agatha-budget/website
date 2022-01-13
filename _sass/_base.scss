@@ -546,7 +546,6 @@ body {
   webkit-tap-highlight-color: #222222;
 }
 
-
 // Added style by Antonio
 
 .no-padding {
@@ -617,6 +616,47 @@ body {
     }
 }
 
+section.features .pricing {
+  #essentiel-pricing {
+    background-color: $head-secondary;
+  }
+  #integral-pricing {
+    background-color: $head-primary;
+  }
+  #faithfull-pricing {
+    background: -webkit-linear-gradient(to right, $head-secondary, $head-primary);
+    background: linear-gradient(to right, $head-secondary, $head-primary);
+  }
+  .feature-item {
+    padding: 10px;
+    padding-top: 30px;
+    margin-bottom: 30px;
+    border-radius: 10px;
+    h3 {
+      font-weight: bold;
+      color: white;
+    }
+    p {
+      color: whitesmoke;
+    }
+    i {
+      background: white;
+      -webkit-background-clip: text;
+      -webkit-text-fill-color: transparent;
+    }
+  }
+}
+
+
+.icon-flipped {
+  -moz-transform: scaleX(-1);
+  -o-transform: scaleX(-1);
+  -webkit-transform: scaleX(-1);
+  transform: scaleX(-1);
+  filter: FlipH;
+  -ms-filter: "FlipH";
+}
+
 // post styles
 
 #post {
@@ -632,6 +672,11 @@ body {
   a {
     color: $head-primary;
     font-weight: bold;
+  }
+
+  h1, h2, h3, h4 {
+    margin-top: 30px;
+    margin-bottom: 15px;
   }
 
   h3 {
@@ -854,4 +899,23 @@ input[type=password]:focus,
 textarea:focus {
 	box-shadow: 0 0 5px rgba(81, 203, 238, 1);
 	border: 1px solid rgba(81, 203, 238, 1);
+}
+
+#profile-header {
+  .header-content {
+    .header-content-inner {
+      position: relative;
+    }
+    text-align: center;
+  }
+  i {
+    margin-bottom: 20px;
+  }
+  ul {
+    padding: 0;
+    list-style-type: none;
+    li {
+      margin: 10px;
+    }
+  }  
 }
