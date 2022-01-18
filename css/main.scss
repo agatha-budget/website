@@ -22,7 +22,7 @@
 // // Width of the content area
 // $content-width:    800px;
 
-// $on-palm:          600px;
+// $on-palm:          600px; 
 // $on-laptop:        800px;
 
 // Using media queries with like this:
@@ -41,6 +41,14 @@ $theme-secondary: #C6DBF0 ;
 $theme-dark: #222;
 $dark-grey: #2e2e2e;
 $counter-color: #fcbd20;
+
+.resto {
+        color: #e5007d;
+        font-family: 'Catamaran', 'Helvetica', 'Arial', 'sans-serif';
+        font-weight: bold;
+        font-size: large;
+        -webkit-text-stroke: 1px #e5007ea4;
+}
 
 // Import partials from `sass_dir` (defaults to `_sass`)
 @import
