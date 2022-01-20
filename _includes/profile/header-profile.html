@@ -14,6 +14,9 @@
                 <div class="header-content">
                     <div class="header-content-inner">
                         <ul>
+                            {% if page.video-url %}
+                                <li><a href="{{page.video-url}}" class="btn btn-outline btn-xl page-scroll">Démonstration vidéo</a></li>
+                            {% endif %}
                             <li><a href="{{page.guide-url}}" class="btn btn-outline btn-xl page-scroll">Guide de lancement</a></li>
                             <li><a href="https://mon.agatha-budget.fr/signup" class="btn btn-outline btn-xl page-scroll">Créer son compte !</a></li>
                             <li><a href="https://mon.agatha-budget.fr/" class="btn btn-outline btn-xl page-scroll">Se connecter !</a></li>

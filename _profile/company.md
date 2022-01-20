@@ -5,6 +5,7 @@ symbol:     "fa-briefcase"
 h1:         "Je veux gérer la trésorerie de mon entreprise"
 h2:         "Mettre fin au stress, orienter son entreprise, financer ses projets d'avenir"
 guide-url:  "/agatha/2021/12/14/starter-entrepreneur/"
+video-url:  "https://www.youtube.com/watch?v=KD68Oh0BeDY"
 ---
 
 <div class="row">
