@@ -50,6 +50,15 @@ $counter-color: #fcbd20;
         -webkit-text-stroke: 1px #e5007ea4;
 }
 
+.gradient-icon {
+      font-size: 80px;
+      background: -webkit-linear-gradient(to left, $head-primary, $head-secondary);
+      background: linear-gradient(to left, $head-primary, $head-secondary);
+      -webkit-background-clip: text;
+      -webkit-text-fill-color: transparent;
+      text-align: center;
+}
+
 // Import partials from `sass_dir` (defaults to `_sass`)
 @import
         "mixins",

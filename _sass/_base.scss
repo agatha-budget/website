@@ -325,10 +325,6 @@ section {
       }
       i {
         font-size: 80px;
-        background: -webkit-linear-gradient(to left, $head-primary, $head-secondary);
-        background: linear-gradient(to left, $head-primary, $head-secondary);
-        -webkit-background-clip: text;
-        -webkit-text-fill-color: transparent;
       }
     }
   }
@@ -508,12 +504,6 @@ footer {
     font-weight: bold;
   }
   color: lightgrey;
-}
-
-.text-primary {
-  background: linear-gradient(to left, #003249, #007EA7);
-  -webkit-background-clip: text;
-  -webkit-text-fill-color: transparent;
 }
 
 .no-gutter > [class*='col-'] {
@@ -705,12 +695,7 @@ section.features .pricing {
   }
 
   .icon {
-      font-size: 80px;
-      background: -webkit-linear-gradient(to left, $head-primary, $head-secondary);
-      background: linear-gradient(to left, $head-primary, $head-secondary);
-      -webkit-background-clip: text;
-      -webkit-text-fill-color: transparent;
-      text-align: center;
+      
   }
 
   .aside {
