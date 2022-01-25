@@ -22,7 +22,7 @@ guide-url:  "/agatha/2021/12/14/starter-hard-mode/"
         <div class="row col-md-8 col-md-offset-2">
             <div class="col-md-6">
                 <div id="essentiel-pricing" class="feature-item">
-                    <i class="icon-support text-primary icon-flipped"></i>
+                    <i class="icon-support"></i>
                     <h3>Intégral Solidaire</h3>
                     <h3>4€/mois</h3>
                     <p class="text-muted">
@@ -37,7 +37,7 @@ guide-url:  "/agatha/2021/12/14/starter-hard-mode/"
             </div>
             <div class="col-md-6">
                 <div id="integral-pricing" class="feature-item">
-                    <i class="icon-people text-primary icon-flipped"></i>
+                    <i class="icon-people"></i>
                     <h3>Accompagné</h3>
                     <h3>de 0 à 4€/mois</h3>
                     <p class="text-muted">
@@ -52,7 +52,7 @@ guide-url:  "/agatha/2021/12/14/starter-hard-mode/"
         <div class="row col-md-8 col-md-offset-2">
             <div class="col-md-12">
                 <div id="faithfull-pricing" class="feature-item">
-                    <i class="icon-compass text-primary"></i>
+                    <i class="icon-compass"></i>
                     <h3>Accompagnement individuel</h3>
                     <h3>Gratuit</h3>
                     <p class="text-muted">Dans le cadre de notre engagement au coté des <span class="resto">Restos du Coeur</span>, nous vous proposons un accompagnement individuel gratuit dans la limite de nos disponibilité</p>

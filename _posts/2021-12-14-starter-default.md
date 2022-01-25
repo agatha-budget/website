@@ -21,7 +21,7 @@ En résumé dans ce guide nous allons :
 <li>comprendre comment utiliser votre budget au quotidien et l'améliorer en le confrontant à la réalité</li>
 </ul>
 
-<h2 class="icon icon-rocket text-primary"></h2>
+<h2 class="gradient-icon icon-rocket"></h2>
 <h2 class="post-heading"> Acte 1 - Viser la lune</h2>
 
 Prenez le temps de réfléchir à ce qui vous motive à gérer votre argent. Est-ce pour plus de sérénité, pour concrétiser un projet, pour pouvoir dépenser sans culpabilité ?
@@ -32,7 +32,7 @@ Une fois vos priorités identifiées, faites-les apparaître dans votre budget s
 Par défaut, ajoutez dans le nom de l'enveloppe le montant que vous souhaitez atteindre ou celui que vous voulez y allouer chaque mois.
 Ces enveloppes VIP sont celles qui maintiendront votre motivation. Ce sont celles dans lesquelles vous aurez plaisir à ajouter de l'argent chaque mois que ce soit pour l'accumuler ou pour pouvoir le dépenser.
 
-<h2 class="icon icon-eye text-primary"></h2>
+<h2 class="gradient-icon icon-eye text-primary"></h2>
 <h2 class="post-heading"> Acte 2 - Anticiper. Même l'imprévisible</h2>
 
 <h3>Les frais réguliers</h3>
@@ -112,7 +112,7 @@ Le jour où un imprévu essaye de vous prendre par surprise, cet argent vous don
 <p>D'attaque à nouveau ? Alors, passons à la suite :</p> 
 </div>
 
-<h2 class="icon icon-direction text-primary"></h2>
+<h2 class="gradient-icon icon-direction text-primary"></h2>
 <h2 class="post-heading"> Acte 3 - Tout le monde à son poste</h2>
 
 Si vous étiez resté sur papier et n'avez pas encore de compte Agatha, c’est le moment d'en créer un.
@@ -157,7 +157,7 @@ L'objectif est de ne pas laisser d'argent "qui traîne" et dont vous ne savez pa
 <p>Votre plan est en place. À présent, il est temps de le confronter à la réalité via le suivi des dépenses et surtout de le mettre à votre service au quotidien.</p>
 </div>
 
-<h2 class="icon icon-equalizer text-primary"></h2>
+<h2 class="gradient-icon icon-equalizer text-primary"></h2>
 <h2 class="post-heading">Epilogue - Esquiver les coups, Encaisser les coûts</h2>
 
 Maintenez votre budget à jour en notant vos dépenses pour chaque compte. 

@@ -23,7 +23,7 @@ video-url:  "https://www.youtube.com/watch?v=KD68Oh0BeDY"
         <div class="row col-md-8 col-md-offset-2">
             <div class="col-md-6">
                 <div id="essentiel-pricing" class="feature-item">
-                    <i class="icon-briefcase text-primary"></i>
+                    <i class="icon-briefcase"></i>
                     <h3>Côté Pro</h3>
                     <h3>7€/mois HT</h3>
                     <p class="text-muted">
@@ -38,7 +38,7 @@ video-url:  "https://www.youtube.com/watch?v=KD68Oh0BeDY"
             </div>
             <div class="col-md-6">
                 <div id="integral-pricing" class="feature-item">
-                    <i class="icon-home text-primary icon-flipped"></i>
+                    <i class="icon-home icon-flipped"></i>
                     <h3>Côté Perso</h3>
                     <h3>5€/mois TTC</h3>
                     <p class="text-muted">
@@ -55,10 +55,10 @@ video-url:  "https://www.youtube.com/watch?v=KD68Oh0BeDY"
                 <div id="faithfull-pricing" class="feature-item">
                     <i class="icon-compass text-primary"></i>
                     <h3>Accompagnement individuel</h3>
-                    <h3>25€/heure HT </h3>
+                    <h3>35€/heure HT </h3>
                     <p class="text-muted">Votre rapport à l'argent est complexe et deviens un frein à votre projet ? Nous pouvons vous aider</p>
-                    <p class="text-muted">30€/heure HT sans engagement
-                        <br/>125€ pour 5h soit 25€/heure HT
+                    <p class="text-muted">45€/heure HT sans engagement
+                        <br/>200€ pour 5h soit 40€/heure HT
                     </p>
                 </div>
             </div>

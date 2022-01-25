@@ -32,7 +32,7 @@ Nous ferons également une parenthèse sur :
 </div>
   
 
-<h2 class="icon icon-rocket text-primary"></h2>
+<h2 class="gradient-icon icon-rocket text-primary"></h2>
 <h2 class="post-heading">Acte 1 - Viser la lune</h2>
 
 La philosophie d'Agatha est de toujours garder ses priorités au premier plan et le fait que ce budget soit celui d'une entreprise n'y change rien. 
@@ -44,7 +44,7 @@ Par défaut, ajoutez dans le nom de l'enveloppe le montant que vous souhaitez at
 
 Ces enveloppes privilégiées sont celles qui orienteront vos décisions. Ce sont celles dans lesquelles vous serez enthousiastes d'ajouter de l'argent chaque mois que ce soit pour l'accumuler ou pour le dépenser.
 
-<h2 class="icon icon-eye text-primary"></h2>
+<h2 class="gradient-icon icon-eye text-primary"></h2>
 <h2 class="post-heading"> Acte 2 - Anticiper. Même l'imprévisible</h2>
 
 <h3>Les frais réguliers</h3>
@@ -111,7 +111,7 @@ Le jour où un imprévu essaye de vous prendre par surprise, cet argent vous don
 <p>D'attaque à nouveau ? Alors passons à la suite :</p> 
 </div>
 
-<h2 class="icon icon-direction text-primary"></h2>
+<h2 class="gradient-icon icon-direction text-primary"></h2>
 <h2 class="post-heading"> Acte 3 - Tout le monde à son poste</h2>
 
 Si vous étiez resté sur papier et n’avez pas encore de compte Agatha, c’est le moment d'en créer un. 
@@ -149,7 +149,7 @@ L’objectif est de ne pas laisser d’argent “qui traîne” et dont vous ne 
 <p>Votre plan est en place. À présent, il est temps de le confronter à la réalité via le suivi des dépenses et des entrées et surtout de le mettre à votre service au quotidien.</p>
 </div>
 
-<h2 class="icon icon-equalizer text-primary"></h2>
+<h2 class="gradient-icon icon-equalizer text-primary"></h2>
 <h2 class="post-heading">Epilogue - Esquiver les coups, Encaisser les coûts</h2>
 
 Maintenez votre budget à jour en notant vos dépenses pour chaque compte. 
@@ -168,7 +168,7 @@ Vous devrez très certainement en faire beaucoup au début puis, de semaine en m
 
 Quelle que soit la forme que vous ferez prendre à votre budget, Agatha est là pour vous garantir qu’il reste à l’équilibre, vous montrer clairement où se trouve l’argent et quelle est votre marge de manœuvre pour réagir face à des imprévus.
 
-<h2 class="icon icon-layers text-primary"></h2>
+<h2 class="gradient-icon icon-layers text-primary"></h2>
 <h2 class="post-heading">Annexes</h2>
  
 <h3>Comment rendre compte de vos ventes dans Agatha ?</h3>
