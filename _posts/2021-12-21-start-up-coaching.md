@@ -6,6 +6,17 @@ author:     "Erica Delagnier"
 categories: agatha entrepreneur
 ---
 
+<div class="break">
+<h2>Accompagnement proposé</h2>
+<ul>
+<li>Une heure de présentation et d'échange autour du sujet de l'argent en entreprise</li>
+<li>La mise à disposition de l'outil en ligne Agatha</li>
+<li>Un support individuel et réactif pour la prise en main et l'exploitation de l'outil</li>
+<li>Des séances d'accompagnement individuel pour ceux qui le souhaitent</li>
+</ul>
+<h3>Je suis à votre disposition pour discuter de tout arrangement qui répondrait au mieux à vos besoins</h3>
+</div>
+
 Lorsque l'on crée son entreprise, le Business Plan (Plan de trésorerie, Plan de financement et Comptes de résultat) est un incontournable dans tous les programmes d'accompagnement. 
 
 Mais on aurait tort de limiter l'aspect financier de l'entrepreneuriat à ce seul triple document. 
@@ -47,19 +58,9 @@ Indispensable pour échanger avec vos interlocuteurs professionnels, il n'est ce
 Agatha vous offre un support lisible, facilement modulable et remodelable pour planifier vos dépenses, expérimenter plusieurs scénarios et construire petit à petit l'assise financiére de votre entreprise.
 
 <h2 class="icon-compass gradient-icon"></h2>
-<h2 class="post-heading">Le côté Psychologique</h2>
+<h2 class="post-heading">Le côté Mental</h2>
 
 Concrétiser des changements d'habitude, dépasser les blocages que l'on peut rencontrer dans notre rapport personnel à l'argent, comprendre celui des autres et trouver un équilibre qui tient compte des besoins, envies et peurs de chacun. 
 
 Ce processus n'est pas toujours facile et nous pouvons vous accompagner de façon individuelle ou avec votre associé pour naviguer ensemble sur ces sujets.
 
-<div class="break">
-<h2>Accompagnement proposé</h2>
-<ul>
-<li>Une heure de présentation et d'échange autour du sujet de l'argent en entreprise</li>
-<li>La mise à disposition de l'outil en ligne Agatha</li>
-<li>Un support individuel et réactif pour la prise en main et l'exploitation de l'outil</li>
-<li>Des séances d'accompagnement individuel pour ceux qui le souhaitent</li>
-</ul>
-<h3>Je suis à votre disposition pour discuter de tout arrangement qui répondrait au mieux à vos besoins</h3>
-</div>
