@@ -252,6 +252,9 @@ section {
     }
   }
   &#different {
+    h3 {
+      color: white;
+    }
     ul {
       margin: 0;
       padding: 0 3em 0 3em;
@@ -262,6 +265,9 @@ section {
       font-size: 20px;
       a {
         color: white;
+      }
+      .btn {
+        margin-top: 20px;
       }
     }
   }
@@ -492,13 +498,22 @@ footer {
 
 .bg-contrast {
   background: $head-secondary;
-  background: -webkit-linear-gradient($head-secondary, $theme-primary);
-  background: linear-gradient($head-secondary, $theme-primary);
+  //background: -webkit-linear-gradient($head-secondary, $theme-primary);
+  //background: linear-gradient($head-secondary, $theme-primary);
   color: $dark-grey;
+  h2, h3 {
+    color: white;
+  }
+  h3 {
+    font-weight: bold;
+  }
+  color: lightgrey;
 }
 
 .text-primary {
-  color: $theme-primary;
+  background: linear-gradient(to left, #003249, #007EA7);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
 }
 
 .no-gutter > [class*='col-'] {
