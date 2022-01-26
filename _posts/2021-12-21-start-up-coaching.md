@@ -25,7 +25,7 @@ Agatha-Budget peut vous accompagner sur trois aspects :
 
 - Maitriser et préparer votre situation financière personnelle vis-à-vis de votre aventure entrepreneuriale
 - Organiser les finances de votre entreprise de manière concrète pour vous assurer de ne pas avoir besoin de recourir à des "facilités de caisse" et être en position de toujours présenter un plan de trésorerie actualisé et robuste. 
--  de façon individuelle pour interroger votre rapport à l'argent et l'apaiser si besoin
+- Échanger lors de séances individuelles pour interroger votre rapport à l'argent et l'apaiser si besoin
 
 <h2 class="icon-home gradient-icon"></h2>
 <h2 class="post-heading">Le côté Perso</h2>
