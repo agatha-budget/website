@@ -27,7 +27,6 @@ guide-url:  "/agatha/2021/12/14/starter-default/"
                     <h3>5€/mois</h3>
                     <p class="text-muted">
                         1 mois d'essai offert
-                        <br/>
                         <br/>Un support individuel selon nos disponibilités
                     </p>
                     <p class="text-muted">6€/mois sans engagement
