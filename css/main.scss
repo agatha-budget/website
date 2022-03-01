@@ -59,6 +59,10 @@ $counter-color: #fcbd20;
       text-align: center;
 }
 
+span.blue {
+        color: $head-secondary
+}
+
 // Import partials from `sass_dir` (defaults to `_sass`)
 @import
         "mixins",
