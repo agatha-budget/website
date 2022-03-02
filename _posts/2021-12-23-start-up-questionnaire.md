@@ -9,32 +9,44 @@ categories: agatha entrepreneur
 <div class="break">
 <h2>Faire le point</h2>
 
-Ce questionnaire a pour but de faire un état des lieux de votre situation financière.
+Ce questionnaire a pour but de faire un état des lieux de votre situation financière. 
 
-<h3>Pour ne pas laisser de place au doute, vous pouvez faire l'exercice en utilisant Agatha pendant un mois. C'est gratuit et même sans poursuivre au dela, cela vous permettra de définir une vision précise de votre situation</h3>
+- Commencez par lire les questions. Si vous n'êtes pas surs de pouvoir y répondre avec certitude, rassurez-vous, rares sont les personnes en mesure de répondre à ces questions de but en blanc. 
+
+- Utilisez le guide de lancement pour établir un budget sur mesure correspondant à votre train de vie actuel : retrouvez le ici 
+
+- Pour ne pas laisser de place au doute, vous pouvez ensuite confronter votre budget théorique à la réalité de votre vie en utilisant gratuitement Agatha pendant un mois.
+
+- Une fois cela fait, revenez ensuite au questionnaire ci-dessous afin de pouvoir y répondre en toute confiance et mettre cette maitrise au service de votre projet !
 </div>
 
 **Si vous êtes en couple et partagez au moins en partie vos dépenses/économies, il est important que vous preniez le temps de remplir ce questionnaire à deux**
 
 - Pouvez vous estimer le cout de votre train de vie actuel ?
 
+- Quelle est la part de ce train de vie qui reléve de l'essentiel (logement, nourriture, assurance etc..)
+
+- Quelle est la part qui releve du confort ? 
+
+- Dans cette part de confort, quelles sont les dépenses qui sont au coeur de votre épanouissement ? quelles sont celles qui ne sont finalement que superflus et pourraient, si besoin, être réduite sans réel impact sur votre qualité de vie ?
+
 - Quand vous envisagez l'avenir, de quel revenu avez vous besoin pour financer votre train de vie idéal ?
 
 - Quel est le revenu à partir duquel vous considérerez que votre entreprise est stable ?
 
-- Si elle mets un peu de temps à démarrer, quel serait le revenu minimum qui vous permettrait un train de vie modeste mais confortable ?
+- Si elle mets un peu de temps à démarrer, quel serait le revenu minimum qui vous permettrait de maintenir un train de vie modeste mais confortable ?
 
-- Quel serait le revenu minimum qui vous permettrait un train de vie minimaliste ? Combien de temps seriez vous (et votre famille) capable de maintenir ce train de vie ?
+- Quel serait le revenu minimum qui vous permettrait un train de vie acceptable ? Combien de temps seriez vous (et votre famille) prêt à maintenir ce train de vie ?
 
 - Avez vous une épargne de sécurité personnelle ? On recommande généralement l'équivalent de 3 à 6 mois de revenus selon la stabilité de votre situation.
 Quel en est le montant ? Est il suffisant pour que vous vous sentiez en confiance ? Sinon, quelle somme aimeriez vous atteindre ?
 
-- Avez vous une idée du montant d'investissements que va nécessiter votre entreprise ?
+- Avez vous une idée du montant d'investissements personnels que va nécessiter votre entreprise ?
 
 - Quel montant en votre possession actuellement seriez vous prêt à investir dans votre entreprise sans mettre en danger votre stabilité financière personnelle
 
-- Sauf investissement extérieur/subvention/prix etc... jusqu'à quand pouvez vous vous consacrer à votre projet ?
+- Sauf investissement extérieur/subvention/prix etc... jusqu'à quand pouvez vous vous consacrer à votre projet le temps que votre entreprise dégage un bénéfice suffisant pour vous payer ?
 
-- Quelle marge prévoyez vous pour vous retourner et trouver un autre emploi le cas échéant ?
+- Prévoyez vous pour vous retourner et trouver un autre emploi le cas échéant ?
 
 - Si vous avez un associé : a t'iel des contraintes différentes ?
