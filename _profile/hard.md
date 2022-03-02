@@ -12,7 +12,7 @@ guide-url:  "/agatha/2021/12/14/starter-hard-mode/"
         <div class="section-heading">
             <h2>Nos Offres</h2>
             <hr>
-            <h3>Toute les offres incluent un mois d'essai gratuit</h3>
+            <h3>Toutes les offres incluent un mois d'essai gratuit</h3>
             <h3>Avec Agatha, vous ne pouvez que gagner</h3>
         </div>
     </div>
@@ -55,7 +55,7 @@ guide-url:  "/agatha/2021/12/14/starter-hard-mode/"
                     <i class="icon-compass"></i>
                     <h3>Accompagnement individuel</h3>
                     <h3>Gratuit</h3>
-                    <p class="text-muted">Dans le cadre de notre engagement au coté des <span class="resto">Restos du Coeur</span>, nous vous proposons un accompagnement individuel gratuit dans la limite de nos disponibilité</p>
+                    <p class="text-muted">Dans le cadre de notre engagement au coté des <span class="resto">Restos du Coeur</span>, nous vous proposons un accompagnement individuel gratuit dans la limite de nos disponibilités</p>
                     <p class="text-muted">
                         Contactez erica.delagnier@restosducoeur.org
                     </p>

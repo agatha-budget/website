@@ -13,7 +13,7 @@ video-url:  "https://www.youtube.com/watch?v=KD68Oh0BeDY"
         <div class="section-heading">
             <h2>Nos Offres</h2>
             <hr>
-            <h3>Toute les offres incluent un mois d'essai gratuit</h3>
+            <h3>Toutes les offres incluent un mois d'essai gratuit</h3>
             <h3>Avec Agatha, vous ne pouvez que gagner</h3>
         </div>
     </div>
@@ -56,7 +56,7 @@ video-url:  "https://www.youtube.com/watch?v=KD68Oh0BeDY"
                     <i class="icon-compass text-primary"></i>
                     <h3>Accompagnement individuel</h3>
                     <h3>40€/heure HT </h3>
-                    <p class="text-muted">Votre rapport à l'argent est complexe et deviens un frein à votre projet ? Nous pouvons vous aider</p>
+                    <p class="text-muted">Votre rapport à l'argent est complexe et devient un frein à votre projet ? Nous pouvons vous aider</p>
                     <p class="text-muted">45€/heure HT sans engagement
                         <br/>200€ pour 5h soit 40€/heure HT
                     </p>

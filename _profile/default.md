@@ -13,7 +13,7 @@ video-url:  "https://www.youtube.com/watch?v=n8CjEhAzJaE"
         <div class="section-heading">
             <h2>Nos Offres</h2>
             <hr>
-            <h3>Toute les offres incluent un mois d'essai gratuit</h3>
+            <h3>Toutes les offres incluent un mois d'essai gratuit</h3>
             <h3>Avec Agatha, vous ne pouvez que gagner</h3>
         </div>
     </div>
