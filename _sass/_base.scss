@@ -699,6 +699,9 @@ section.features .pricing {
   }
 
   .aside {
+    h2 {
+      text-align: center;
+    }
     background-color: $theme-secondary;
     padding: 18px;
     margin-bottom: 18px;
@@ -723,9 +726,14 @@ section.features .pricing {
     color: white;
     padding: 18px;
     margin-bottom: 18px;
+    b {
+      color : black;
+    }
+    a {
+      color: $theme-primary;
+    }
 
     p {
-      font-size: 16px;
       margin-bottom: 10px;     
     }
   }

@@ -7,7 +7,7 @@ categories: agatha entrepreneur
 hidden: true
 ---
 
-** Ce document est collaboratif, vos contributions sont les bienvenues ! Par mail : erica@agatha-budget.fr ou sur le [framapad](https://semestriel.framapad.org/p/eowfemqw-9stp?lang=fr) (que je viderai au fur et à mesure que je reporte les informations ici)**
+**Ce document est collaboratif, vos contributions sont les bienvenues ! Par mail : erica@agatha-budget.fr ou sur le [framapad](https://semestriel.framapad.org/p/eowfemqw-9stp?lang=fr) (que je viderai au fur et à mesure que je reporte les informations ici)**
 
 ## Dépôt de marque :
 - INPI : **190€** pour une dépôt avec une classe + **40€** par classes supplémentaires

@@ -50,7 +50,7 @@ Listez ce que votre argent doit faire chaque mois.
 
 <p>Payer votre loyer, c'est vous offrir un endroit à vous, un cocon confortable où passer du temps avec vos amis ou votre famille. </p>
 
-<p>Si le prix ne vous paraît pas en valoir la chandelle et que le payer est frustrant pour vous, la solution est de créer un projet (nouvelle priorité ?) pour vous permettre de déménager lorsque ce sera possible. </p>
+<p>Si le prix ne vous paraît pas en valoir la chandelle et que le payer est frustrant pour vous, c'est le signe qu'il vous faut supprimer la dépense ou trouver une alternative dont le ratio prix/satisfaction vous convient</p>
 </div>
 
 Passez ces frais en revue et  profitez-en pour vérifier qu'ils ont de la valeur pour vous. C'est aussi l'occasion d'identifier ceux qui ne vous apportent pas de satisfaction et de les résilier ou diminuer (cet abonnement que vous n'utilisez pas, cette assurance redondante, ces sorties bureau que vous faites par pression sociale plutôt que par réelle envie, etc.).
@@ -162,7 +162,7 @@ L'objectif est de ne pas laisser d'argent "qui traîne" et dont vous ne savez pa
 
 Maintenez votre budget à jour en notant vos dépenses pour chaque compte. 
 
-Afin de pouvoir compter sur votre budget dans vos décisions, il est nécessaire qu'il reste le plus à jour possible. Nous vous recommandons de faire le point au minimum une fois par semaine, ce qui a aussi l'avantage de ne pas avoir beaucoup de dépenses à noter chaque fois. Ce point budget hebdomadaire ne prend ainsi que quelques minutes en moyenne et vous permet de mieux conscientiser vos dépenses.
+Afin de pouvoir compter sur votre budget dans vos décisions, il est nécessaire qu'il reste le plus à jour possible. Nous vous recommandons de faire le point au minimum une fois par semaine, ce qui a aussi l'avantage de ne pas avoir beaucoup de dépenses à noter chaque fois. Ce point budget hebdomadaire ne prend ainsi que quelques minutes en moyenne et vous permet de mieux conscientiser vos dépenses et de réguliérement ré-évaluer vos priorités.
 
 Dans votre page d'accueil, vous pourrez ainsi vérifier à tout moment quel montant reste disponible dans chaque enveloppe. 
 
