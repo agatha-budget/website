@@ -4,7 +4,10 @@ title:      "Se mettre à son compte : évaluer ses charges"
 date:       2021-12-21 12:01:00
 author:     "Erica Delagnier"
 categories: agatha entrepreneur
+hidden: true
 ---
+
+** Ce document est collaboratif, vos contributions sont les bienvenues ! Par mail : erica@agatha-budget.fr ou sur le [framapad](https://semestriel.framapad.org/p/eowfemqw-9stp?lang=fr) (que je viderai au fur et à mesure que je reporte les informations ici)**
 
 ## Dépôt de marque :
 - INPI : **190€** pour une dépôt avec une classe + **40€** par classes supplémentaires
@@ -53,7 +56,7 @@ A faire dès que vous avez le nom aussi pour réserver le domaine et mettre en p
 
 ### Création de site web et développement :
 
-- Wix/Worpress : gratuit. cf <span class="blue">Sandy - Tata Samedi</span> ? 
+- Wix/Worpress : gratuit. ne nécessite pas de compétence en développement cf <span class="blue">Sandy - Tata Samedi</span> ? 
 
 - Prestataire pouvant faire votre site web tout en vous formant : éligible CPF. cf <span class="blue">Marie Tiffanie - EME STUDIO</span> ?
 
@@ -68,8 +71,7 @@ A faire dès que vous avez le nom aussi pour réserver le domaine et mettre en p
   Projet tutoré, 4 élèves se pencheront sur votre étude de marché, business plan etc... https://www.grenoble-iae.fr/menu-principal/l-iae/actualites/toutes-les-actualites/iae-transfert-accompagne-les-projets-des-entreprises-257313.kjsp
 
 ## Comptabilité :
-Obligatoire au minimum pour la validation des comptes en fin d'exercice.
-Peut gérer votre comptabilité (différent de votre budget !), votre fiscalité, les démarches RH (fiches de paie, souscription assurance etc..)
+Gérer votre comptabilité (différent de votre budget !), votre fiscalité, les démarches RH (fiches de paie, souscription assurance etc..)
 
 ### Logiciel de comptabilité :
 
@@ -96,6 +98,10 @@ J'envisage toujours de le faire un jour mais je préfére concentrer mes efforts
 
 - Prestataire pouvant gérer les fiches de paie : cf <span class="blue">Marie-Tiffanie - EME Studio</span>
 
+## Pilotage de budget :
+
+Allez, je fais un peu de pub quand-même ;) [Agatha-Budget : Coté Pro](https://agatha-budget.fr/profile/company)
+
 ## Créer sa société :
 
 ### Avocat : 
@@ -115,14 +121,16 @@ J'envisage toujours de le faire un jour mais je préfére concentrer mes efforts
 ### Comptable :
 
 Un comptable peut également vous accompagner dans la rédaction des statuts et l'immatriculation de l'entreprise.
-<span class="blue">Thonas Ray</span> est un partenaire de Ronalpia et a notamment aidé plusieurs projets sur ce sujet dans le cadre des heures d'accompagnement.
+<span class="blue">Thomas Ray</span> est un partenaire de Ronalpia et a notamment aidé plusieurs projets sur ce sujet dans le cadre des heures d'accompagnement.
 
 ## Communication :
 
 ### Graphiste
 - Anne-Claire Godet :
-  tarif selon projet 
+  tarif selon projet, [contactez la](https://threoninedesign.fr/contact)
+
   <span class="blue">Erica Delagnier</span> : "Elle a fait ma charte graphique et j'adore mon logo :)"
+
 - Alternant d'Ecole de Design : cf <span class="blue">Marie Tiffanie</span> 
 
 ## Assurances : 
@@ -137,14 +145,22 @@ Un comptable peut également vous accompagner dans la rédaction des statuts et 
 Enregistrez vous auprès d'eux après votre immatriculation.
 
 Lorsque vous créez votre structure, la CCI vous attribuera un code NAF ou APE, qui correspond à votre secteur d'activité.
+
 Ils le fixeront eux même en fonction de leur interprétation de votre objet social (description de votre activité dans vos statuts) et c'est de ce code que découlera le choix de votre convention collective. Il peut y avoir plusieurs conventions correspondants à votre code, *a priori* le choix dépends de vous et vous pouvez vous baser sur les descriptions pour juger de la plus appropriée. 
+
+=> [trouver sa convention collective en fonction de son code NAF/APE](https://www.centre-national-droit-du-travail.fr/comment1.php) 
+
 En fonction de cette convention collective vous serez ensuite rattaché à un OPCO en particulier.
 
-Votre OPCO est l'interlocuteur qui pourra le mieux vous guider pour connaitre les grilles de rémunération à appliquer pour vos salariés et alternants
+=> [trouver son OPCO en fonction de sa convention collective, tableur fourni par https://travail-emploi.gouv.fr/IMG/xlsx/table_idcc-opco-19072019.xlsx](https://travail-emploi.gouv.fr/IMG/xlsx/table_idcc-opco-19072019.xlsx)
+
+Vous devez ensuite vous déclarer à cet OPCO (vous pouvez les appeller d'abord pour vous assurer avec eux que vous êtes au bon endroit et connaitre les démarches à faire)
+
+Votre OPCO est l'interlocuteur qui pourra le mieux vous guider pour connaitre les grilles de rémunération à appliquer pour vos salariés et alternants. Ce sont eux qui valideront notamment vos contrats
 
 ### Alternant :
-- période idéale : avant Juin (**en particulier en 2022 car ce sera la date de fin des aides de l'État**)
-- cout : variable selon le niveau de formation
+- période idéale : signé avant Juin (**en particulier en 2022 car ce sera la date de fin des aides de l'État**)
+- cout : variable selon le niveau de formation (demander à votre OPCO)
 
 ### Stagiaire :
-- période idéale : selon les organismes de formation    
+- période idéale : selon les organismes de formation 
