@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      "Guide de lancement"
-subtitle:   "Je veux devenir meilleur avec mon argent"
+subtitle:   "Mettre mon argent à mon service"
 date:       2021-12-14 12:00:00
 author:     "Erica Delagnier"
 time:       "6 min"
