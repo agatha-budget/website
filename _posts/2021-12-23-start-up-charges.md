@@ -7,7 +7,9 @@ categories: agatha entrepreneur
 hidden: true
 ---
 
-**Ce document est collaboratif, vos contributions sont les bienvenues ! Par mail : erica@agatha-budget.fr ou sur le [framapad](https://semestriel.framapad.org/p/eowfemqw-9stp?lang=fr) (que je viderai au fur et à mesure que je reporte les informations ici)**
+**Ce document est collaboratif, vos contributions sont les bienvenues !**
+
+*Par mail : erica@agatha-budget.fr ou sur le [framapad](https://semestriel.framapad.org/p/eowfemqw-9stp?lang=fr) (que je viderai au fur et à mesure que je reporte les informations ici)*
 
 ## Dépôt de marque :
 - INPI : **190€** pour une dépôt avec une classe + **40€** par classes supplémentaires
@@ -50,6 +52,7 @@ A faire dès que vous avez le nom aussi pour réserver le domaine et mettre en p
 
 - Github/Gitlab et les sites statiques :
     gratuit
+    
     <span class="blue">Erica Delagnier</span> : "nécessite de savoir coder en HTML/CSS mais vous pouvez facilement trouver un template Jekyll/Hugo etc.. et la fonctionnalité Pages de Github/Gitlab le mettra en ligne pour vous. Avantage : des sites entièrements ajustables et extrémement légers"
 
 - OVH et cie.. proposent aussi l'hebergement et ce de façon plus clef en main pour les personnes n'ayant pas d'expérience en développement mais je ne peux pas donner d'avis sur le sujet

@@ -49,3 +49,21 @@ categories: agatha entrepreneur
 - Prévoyez-vous pour vous retourner et trouver un autre emploi le cas échéant ?
 
 - Si vous avez un associé : a t'iel des contraintes différentes ?
+
+
+<div class="aside">
+<h2>Prêt pour le Business Plan !</h2>
+
+<p>Pour l'élaboration de votre BP, vous savez maintenant :</p>
+
+<p>- quel investissement vous pouvez faire dès aujourd'hui</p>
+
+<p>- quel salaire (train de vie minimum puis confortable) vous devez prévoir de pouvoir vous verser et dans quelle limite de temps</p>
+
+<p>- quel salaire vous souhaitez vous verser à terme (train de vie idéal)</p>
+
+<p>Ces informations seront indispensables pour vous permettre de viser le bon objectif en terme d'envergure et de calendrier pour votre projet.</p>
+
+<p>Bonne planification !</p>
+
+</div>
