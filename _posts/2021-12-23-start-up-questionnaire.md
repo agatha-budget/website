@@ -46,7 +46,7 @@ categories: agatha entrepreneur
 
 - Sauf investissement extérieur/subvention/prix, etc... jusqu'à quand pouvez-vous vous consacrer à votre projet le temps que votre entreprise dégage un bénéfice suffisant pour vous payer ?
 
-- Prévoyez-vous pour vous retourner et trouver un autre emploi le cas échéant ?
+- De quelle marge de manoeuvre auriez vous besoin pour vous retourner et trouver un autre emploi le cas échéant ?
 
 - Si vous avez un associé : a t'iel des contraintes différentes ?
 
