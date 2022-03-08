@@ -169,5 +169,7 @@ Votre OPCO est l'interlocuteur qui pourra le mieux vous guider pour connaitre le
 - période idéale : signé avant Juin (**en particulier en 2022 car ce sera la date de fin des aides de l'État**)
 - cout : variable selon le niveau de formation (demander à votre OPCO)
 
+Exemple des couts pour l'OPCO Atlas (convention syntec, bureau d'étude et informatique) : [Contrat d'apprentissage : quel salaire ?](https://www.opco-atlas.fr/entreprise/contrat-apprentissage.html)
+
 ### Stagiaire :
 - période idéale : selon les organismes de formation 
