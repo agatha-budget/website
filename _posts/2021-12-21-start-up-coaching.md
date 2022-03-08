@@ -17,15 +17,15 @@ categories: agatha entrepreneur
 <h3>Je suis à votre disposition pour discuter de tout arrangement qui répondrait au mieux à vos besoins</h3>
 </div>
 
-Lorsque l'on crée son entreprise, le Business Plan (Plan de trésorerie, Plan de financement et Comptes de résultat) est un incontournable dans tous les programmes d'accompagnement. 
+Lorsque l'on crée son entreprise, le Business Plan (Plan de trésorerie, Plan de financement et Comptes de résultats) est un incontournable dans tous les programmes d'accompagnement. 
 
 Mais on aurait tort de limiter l'aspect financier de l'entrepreneuriat à ce seul triple document. 
 
 Agatha-Budget peut vous accompagner sur trois aspects : 
 
-- Maitriser et préparer votre situation financière personnelle vis-à-vis de votre aventure entrepreneuriale
+- Maîtriser et préparer votre situation financière personnelle vis-à-vis de votre aventure entrepreneuriale.
 - Organiser les finances de votre entreprise de manière concrète pour vous assurer de ne pas avoir besoin de recourir à des "facilités de caisse" et être en position de toujours présenter un plan de trésorerie actualisé et robuste. 
-- Échanger lors de séances individuelles pour interroger votre rapport à l'argent et l'apaiser si besoin
+- Échanger lors de séances individuelles pour interroger votre rapport à l'argent et l'apaiser si besoin.
 
 <h2 class="icon-home gradient-icon"></h2>
 <h2 class="post-heading">Le côté Perso</h2>
@@ -49,13 +49,13 @@ Le Business Plan vous permet d'adopter face à votre projet le point de vue d'un
 
 Indispensable pour échanger avec vos interlocuteurs professionnels, il n'est cependant pas l'outil idéal pour la prise de décision au quotidien, car il lisse de nombreux éléments et, car le support Excel est souvent capricieux face à trop de changements et revirements.
 
-- Quelle est la part d'argent facturé, mais encore non perçu ? 
+- Quelle est la part d'argent facturée, mais encore non perçue ? 
 - Comment s'équilibrent la TVA perçue et votre crédit de TVA ?
 - Avez-vous les fonds nécessaires pour ne pas basculer dans le rouge en cas de retard de versement d'une subvention ? 
 - À quel usage destinez-vous votre bénéfice ?
-- Vous avez une dépense imprévue, comment adapter votre plan pour que le reste de vos projets ne sont pas pénalisés ?
+- Vous avez une dépense imprévue, comment adapter votre plan pour que le reste de vos projets ne soient pas pénalisés ?
 
-Agatha vous offre un support lisible, facilement modulable et remodelable pour planifier vos dépenses, expérimenter plusieurs scénarios et construire petit à petit l'assise financiére de votre entreprise.
+Agatha vous offre un support lisible, facilement modulable et remodelable pour planifier vos dépenses, expérimenter plusieurs scénarios et construire petit à petit l'assise financière de votre entreprise.
 
 <h2 class="icon-compass gradient-icon"></h2>
 <h2 class="post-heading">Le côté Mental</h2>
