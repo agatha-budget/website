@@ -145,7 +145,7 @@ Un comptable peut également vous accompagner dans la rédaction des statuts et 
 
 ### Checklist de vos obligations en tant qu'employeur : 
 
-[Télécharger PDF récapitulatif ici](https://agatha-budget/img/ressources/obligations-sociales-employeur.pdf) (fourni par SG Solution Paie, en juillet 2021, attention les obligations ont pu changer depuis mais ce document peut tout de même vous donner un bon aperçu)
+[Télécharger PDF récapitulatif ici](https://agatha-budget.fr/img/ressources/obligations-sociales-employeur.pdf) (fourni par SG Solution Paie, en juillet 2021, attention les obligations ont pu changer depuis mais ce document peut tout de même vous donner un bon aperçu)
 
 ### OPCO : 
 
