@@ -17,7 +17,7 @@ En résumé dans ce guide, nous allons :
    -  identifier vos priorités et motivations
    - faire le point des coûts de votre entreprise (frais réguliers comme irréguliers)
    - établir un plan en répartissant l'argent de votre entreprise selon le rôle que vous voulez lui donner
-    - comprendre comment utiliser votre budget au quotidien et l'améliorer en le confrontant à la réalité
+   - comprendre comment utiliser votre budget au quotidien et l'améliorer en le confrontant à la réalité
 
 Nous ferons également une parenthèse sur :
    - la prise en compte de client facturé, mais n'ayant pas encore payé
