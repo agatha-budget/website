@@ -35,7 +35,7 @@ Si vous avez un nom d'entreprise différent de celui de votre produit, vous n'av
 
 **Exemple** : Je publie le logiciel Agatha-Budget via l'entreprise Les Tychés. Le nom de l'entreprise 'Tychés' n'apparaitra que sur quelques documents officiels mais pas dans ma communication, je n'ai donc déposé que Agatha. Si besoin je pourrai changer le nom de la société en faisant simplement une mise à jour des statuts.
 
-**Tips sur les noms**: Pour votre nom d'entreprise (pour la marque pas de problème), je vous déconseille les accents (c'est possible quand même mais cela a causé quelques problémes dans des formulaires gouvernementaux qui les prenaient mail en compte)
+**Tips sur les noms**: Pour votre nom d'entreprise (pour la marque pas de problème), je vous déconseille les accents (c'est possible quand même mais cela a causé quelques problémes dans des formulaires gouvernementaux qui les prenaient mal en compte, l'accent une innovation disruptive en France...)
 
 ### Se faire accompagner
 
