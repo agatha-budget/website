@@ -16,17 +16,30 @@ hidden: true
 
 (une catégorie dans laquelle vous voulez réserver le nom)
 
-Vous pouvez bénéficier d'un appel gratuit avec un avocat via les permancences pour avoir un avis sur les chances d'acceptation de votre dépôt
+### Vidéo d'explication
 
-Le dépôt est à faire dés que vous avez validé le choix de votre nom commercial car la procédure prends du temps.
+Une vidéo qui m'avait aidé : [Comment vérifier la disponibilité d'un nom de marque](https://www.youtube.com/watch?v=_IhzufXfGjU)  (merci à <span class="blue">Sébastien - Bois2Scie</span> qui me l'avait fait passé)
 
+### Permanences
+
+Vous pouvez bénéficier d'un appel gratuit de 1/2h avec un avocat via les permancences pour avoir un avis sur les chances d'acceptation de votre dépôt : [voir les numéros ici](https://www.inpi.fr/fr/auvergne-rhone-alpes)
+
+Mon conseil est de bien préparer votre dossier en amont pour idéalement n'avoir qu'à le valider et sinon avoir une assez bonne connaissance du sujet pour rapidement cerner les choses à changer car en une 1/2h, vous n'avez pas vraiment le temps de partir de 0.
+
+### Délai
+
+Le dépôt est à faire dés que vous avez validé le choix de votre nom commercial car la procédure prends du temps (dépot de dossier, puis annonce de publication et enfin, aprés un delai pour que des potentiels concurrents réagissent, validation). Comptez environ 4 mois jusqu'à la fin du délai accordé pour les oppositions.
+
+### Nom d'entreprise, nom de produit
 Si vous avez un nom d'entreprise différent de celui de votre produit, vous n'avez pas besoin de protéger votre nom d'entreprise sauf si vous voulez développer une image de marque autour
 
-**Exemple** : Je publie le logiciel Agatha-Budget via l'entreprise Les Tychés. Le nom de l'entreprise 'Tychés' n'apparaitra que sur quelques documents officiels mais pas dans ma communication, je n'ai donc déposé que Agatha
+**Exemple** : Je publie le logiciel Agatha-Budget via l'entreprise Les Tychés. Le nom de l'entreprise 'Tychés' n'apparaitra que sur quelques documents officiels mais pas dans ma communication, je n'ai donc déposé que Agatha. Si besoin je pourrai changer le nom de la société en faisant simplement une mise à jour des statuts.
 
 **Tips sur les noms**: Pour votre nom d'entreprise (pour la marque pas de problème), je vous déconseille les accents (c'est possible quand même mais cela a causé quelques problémes dans des formulaires gouvernementaux qui les prenaient mail en compte)
 
-- Avocat Propriété Intellectuelle : cf <span class="blue">Marie-Tiffanie</span>
+### Se faire accompagner
+
+- Avocat Propriété Intellectuelle : peut vous accompagner dans votre démarche cf <span class="blue">Marie-Tiffanie</span> environ 1600 TTC
 
 ## Web et Informatique : 
 
