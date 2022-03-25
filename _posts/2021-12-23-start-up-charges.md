@@ -18,7 +18,7 @@ hidden: true
 
 ### Vidéo d'explication
 
-Une vidéo qui m'avait aidé : [Comment vérifier la disponibilité d'un nom de marque](https://www.youtube.com/watch?v=_IhzufXfGjU)  (merci à <span class="blue">Sébastien - Bois2Scie</span> qui me l'avait fait passé)
+Une vidéo qui m'avait aidé : [Comment vérifier la disponibilité d'un nom de marque](https://www.youtube.com/watch?v=_IhzufXfGjU)  (merci à <span class="blue">Sébastien - Bois2Scie</span> qui me l'avait fait passée)
 
 ### Permanences
 
