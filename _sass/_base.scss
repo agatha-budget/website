@@ -98,14 +98,14 @@ p {
         color: #222222;
       }
       &:hover, &:focus:hover {
-        color: $head-secondary;
+        color: $head-primary;
       }
     }
     &.active > a {
-      color: $head-secondary !important;
+      color: $head-primary !important;
       background-color: transparent;
       &:focus {
-        color: $head-secondary !important;
+        color: $head-primary !important;
         background-color: transparent;
       }
       &:hover, &:focus:hover {
@@ -161,7 +161,7 @@ header {
   width: 100%;
   min-height: auto;
   overflow-y: hidden;
-  background: url("../img/bg-pattern.png"), $head-primary;
+  background: url("../img/bg-pattern.png"), $head-secondary;
   /* fallback for old browsers */
   background: url("../img/bg-pattern.png"), -webkit-linear-gradient(to left, $head-primary, $head-secondary);
   /* Chrome 10-25, Safari 5.1-6 */
@@ -493,9 +493,9 @@ footer {
 }
 
 .bg-contrast {
-  background: $head-secondary;
-  //background: -webkit-linear-gradient($head-secondary, $theme-primary);
-  //background: linear-gradient($head-secondary, $theme-primary);
+  background: $head-primary;
+  //background: -webkit-linear-gradient($head-primary, $theme-primary);
+  //background: linear-gradient($head-primary, $theme-primary);
   color: $dark-grey;
   h2, h3 {
     color: white;
@@ -629,8 +629,8 @@ section.features .pricing {
     background-color: $head-primary;
   }
   #faithfull-pricing {
-    background: -webkit-linear-gradient(to right, $head-secondary, $head-primary);
-    background: linear-gradient(to right, $head-secondary, $head-primary);
+    background: -webkit-linear-gradient(to left, $head-primary, $head-secondary);
+    background: linear-gradient(to left, $head-primary, $head-secondary);
   }
   .feature-item {
     padding: 10px;
@@ -670,12 +670,12 @@ section.features .pricing {
 
   .post-heading {
     font-weight: bold;
-    color: $head-primary;
+    color: $head-secondary;
     text-align: center;
   }
 
   a {
-    color: $head-primary;
+    color: $head-secondary;
     font-weight: bold;
   }
 
@@ -686,12 +686,12 @@ section.features .pricing {
 
   h3 {
     font-weight: bold;
-    color: $head-secondary;
+    color: $head-primary;
   }
 
   h4 {
     font-weight: bold;
-    color: $head-secondary;
+    color: $head-primary;
   }
 
   .icon {
@@ -742,9 +742,9 @@ section.features .pricing {
 
 .intro-header {
   background: no-repeat center center;
-  background: $head-secondary;
-  background: -webkit-linear-gradient($head-secondary, $theme-primary);
-  background: linear-gradient($head-secondary, $theme-primary);
+  background: $head-primary;
+  background: -webkit-linear-gradient($head-primary, $theme-primary);
+  background: linear-gradient($head-primary, $theme-primary);
  // background-color: #808080;
   background-attachment: scroll;
   -webkit-background-size: cover;
@@ -780,7 +780,7 @@ section.features .pricing {
       line-height: 1.1;
       display: block;
       a {
-        color: $head-primary;
+        color: $head-secondary;
         &:hover, &:focus {
           color: $counter-color;
         }
@@ -841,14 +841,14 @@ input[type=submit] {
 	padding: 20px 30px;
 	border-radius: 3px;
 	transition: 0.2s ease-in-out;
-	border: 1px solid $head-primary;
-	background: $head-primary;
+	border: 1px solid $head-secondary;
+	background: $head-secondary;
 	cursor: pointer;
 }
 
 input[type=submit]:hover {
-	border: 1px solid $head-primary;
-	background: $head-secondary;
+	border: 1px solid $head-secondary;
+	background: $head-primary;
 }
 
 input[type=submit]:active {
