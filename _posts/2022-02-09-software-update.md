@@ -23,7 +23,7 @@ Cette semaine, plusieurs petites nouveautés :
 
 
 <div class="aside">
-<p>Comme d'habitude merci aux fidéles "Chasseurs de bugs" qui ont fait remonté les erreurs qu'ils remarquaient ! C'est grâce à vous que Agatha continue de s'améliorer. 
+<p>Comme d'habitude merci aux fidéles "Chasseurs d'Insectes" qui ont fait remonté les erreurs qu'ils remarquaient ! C'est grâce à vous que Agatha continue de s'améliorer. 
 
 Et un remerciement tout particulier aux participants ayant testé le tout nouvel atelier d'initiation et dont les retours ont été précieux </p>
 
