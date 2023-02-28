@@ -3,10 +3,22 @@ layout: post
 title: "Nouveautés du 17 février 2023 <br/>"
 date: 2023-02-17 12:01:00
 author: "Erica Delagnier"
+author_img: "erica.jpg"
 categories: agatha nouveautés
 ---
 
+<div class="aside row">
+    <p class="col-md-2"><img src="/img/ressources/bug-hunter.jpg" class="img-responsive avatar" alt="Image de Papillon par PublicDomainPictures de Pixabay"></p>
+    <div class="col-md-10">
+        <p> Comme d'habitude merci aux fidéles "Chasseurs d'Insectes" qui ont fait remonté des bugs ou partagé leurs remarques !</p>
+        <p> C'est grâce à vous que Agatha continue de s'améliorer ! </p>
+    </div>
+</div>
 
+<div class="aside">
+        <p> Un remerciement tout particulier aux participants ayant testé le tout nouvel atelier d'initiation !</p>
+        <p> Vous retrouverez parmi les nouveautés des réponses à plusieurs de vos remarques ;) </p>
+</div>
 
 Cette semaine, plusieurs petites nouveautés : 
 
@@ -22,11 +34,3 @@ Cette semaine, plusieurs petites nouveautés :
 - correction d'une erreur qui impactait la couleur du montant de certaines sous-operations
 
 
-<div class="aside">
-<p>Comme d'habitude merci aux fidéles "Chasseurs d'Insectes" qui ont fait remonté les erreurs qu'ils remarquaient ! C'est grâce à vous que Agatha continue de s'améliorer. 
-
-Et un remerciement tout particulier aux participants ayant testé le tout nouvel atelier d'initiation et dont les retours ont été précieux </p>
-
-<p> Vous avez vous aussi des questions/remarques/bug à faire remonter ? voilà l'adresse : contact@agatha-budget.fr !
-Si vous souhaitez être informé(e) des prochaines dates d'atelier : <a href='http://contact.agatha-budget.fr/'>cliquez ici</a> </p>
-</div>

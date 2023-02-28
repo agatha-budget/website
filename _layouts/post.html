@@ -13,11 +13,13 @@ layout: default
                 {% if page.subtitle %}
                 <h2 class="subheading">{{ page.subtitle }}</h2>
                 {% endif %}
-                {% if page.time %}
-                <p class="meta">Temps de lecture estimé : {{ page.time }}</p>
-                {% endif %}
-                <p class="meta">Publié par {% if page.author %}{{ page.author }}{% else %}{{ site.title }}{% endif %}</p>
-                <a href="#post" class="page-scroll"><i class="fa fa-fw fa-2x fa-arrow-down"></i></a>
+                <div class="metadata">
+                  {% if page.time %}
+                  <p class="meta">Temps de lecture estimé : {{ page.time }}</p>
+                  {% endif %}
+                  <p class="meta">{% if page.author %}{{ page.author }}{% else %}{{ site.title }}{% endif %}</p>
+                  <p class="meta">{% if page.author_img" %}<img src="/img/author/{{ page.author_img }}" class="img-responsive avatar" alt="">{% endif %}</p>
+                </div>
               </div>
             </div>
         </div>
@@ -28,10 +30,24 @@ layout: default
     <div id="post" class="container">
         <div class="row">
             <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
-		{{ content }}
+		            {{ content }}
+            </div>
+            <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
+              <div class="aside-contact">
+                <p>Rien n'est plus inspirant que vos retours !</p>
+                <p>Une remarque, une question, une anecdote à partager ?
+                  <a href="mailto:contact@agatha-budget.fr?subject={{ page.title }}">Laissez moi un message</a> 
+                </p>
+                <p>
+                  Envie d'essayer Agatha-Budget ? <a href='http://contact.agatha-budget.fr/'>cliquez ici</a>
+                </p>
+              </div>
+            </div>
+        </div>
     </div>
 </article>
-<hr>
+
+<!-- no more discus -->
 {% if site.disqus_account %}
 <article>
   <div id="disqus" class="container">
@@ -66,6 +82,4 @@ layout: default
 </article>
 
 <hr>
-
-
 {% endif %}

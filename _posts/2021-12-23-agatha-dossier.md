@@ -3,6 +3,7 @@ layout:     post
 title:      "Agatha - Dossier Presse"
 date:       2021-12-21 12:01:00
 author:     "Erica Delagnier"
+author_img: "erica.jpg"
 categories: agatha 
 hidden: true
 ---

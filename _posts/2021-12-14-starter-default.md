@@ -4,6 +4,7 @@ title:      "Guide de lancement"
 subtitle:   "Mettre mon argent à mon service"
 date:       2021-12-14 12:00:00
 author:     "Erica Delagnier"
+author_img: "erica.jpg"
 time:       "6 min"
 header-img: "img/post-bg-06.jpg"
 categories: agatha

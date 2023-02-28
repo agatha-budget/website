@@ -63,6 +63,22 @@ span.blue {
         color: $head-secondary
 }
 
+.avatar {
+        max-width: 100px;
+        border-radius: 50%;
+}
+
+.post-heading {
+        .metadata {
+                margin-top: 50px;
+        }
+        .avatar {
+                display: block;
+                margin-left: auto;
+                margin-right: auto;
+        }    
+}
+
 // Import partials from `sass_dir` (defaults to `_sass`)
 @import
         "mixins",

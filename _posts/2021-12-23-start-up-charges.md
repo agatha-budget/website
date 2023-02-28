@@ -3,6 +3,7 @@ layout:     post
 title:      "Se mettre à son compte : évaluer ses charges"
 date:       2021-12-21 12:01:00
 author:     "Erica Delagnier"
+author_img: "erica.jpg"
 categories: agatha entrepreneur
 hidden: true
 ---
@@ -132,7 +133,7 @@ Allez, je fais un peu de pub quand-même ;) [Agatha-Budget : Coté Pro](https://
   <span class="blue">Erica Delagnier</span> :
     Une dépense que j'aurai peut-être pu éviter. Mais dans le contexte, j'avais besoin d'aller le plus vite possible pour le recrutement de mon alternante et je ne voulais pas prendre de risque légaux. Ils ont été efficaces et disponibles. 
     Je n'ai pas eu à faire toute les recherches et à porter la charge mentale de faire une erreur. J'en ai également profité pour apprendre le plus possible.
-    Aprés les premières versions, je suis venu les voir avec du surligneur et des questions sur quasiment chaque paragraphe et ai pu avoir des réponses claires et précise qui m'ont permis de rééellement comprendre mes statuts et CGV '
+    Aprés les premières versions, je suis venu les voir avec du surligneur et des questions sur quasiment chaque paragraphe et ai pu avoir des réponses claires et précise qui m'ont permis de rééellement comprendre mes statuts et CGV. Déception par contre, j'avais spécifiquement demandé à être compatible ESUS et j'ai du insister dessus car ce n'était pas le cas dans la première version. Quelques mois plus tard, j'ai découvert que ce qui avait été ajouté était insufisant. A faire relire par quelqu'un d'autre pour cet aspect là'
 
 ### Comptable :
 
@@ -152,7 +153,7 @@ Un comptable peut également vous accompagner dans la rédaction des statuts et 
 ## Assurances : 
 
 ### Assurance responsabilité civile
-  - Maif : 581€/an 
+  - Maif : 300€/an 
 
 ## Recruter
 

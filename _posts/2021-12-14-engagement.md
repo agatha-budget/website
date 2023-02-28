@@ -3,6 +3,7 @@ layout:     post
 title:      "Les valeurs d'Agatha"
 date:       2021-12-14 12:01:00
 author:     "Erica Delagnier"
+author_img: "erica.jpg"
 categories: agatha
 ---
 

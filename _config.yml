@@ -13,7 +13,7 @@ google_ad_client:
 
 google_analytics: 
 addthis_id: 
-disqus_account: 'delagnier'
+#disqus_account: 'delagnier'
 
 # Social networks usernames (many more available: flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.) see all icon at fontawesome.io
 social:

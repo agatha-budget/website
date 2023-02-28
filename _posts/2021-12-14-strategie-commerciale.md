@@ -4,6 +4,7 @@ title:      "Stratégie commerciale"
 subtitle:   "brouillon visible par lien direct uniquement"
 date:       2021-12-14 12:00:00
 author:     "Erica Delagnier"
+author_img: "erica.jpg"
 header-img: "img/post-bg-06.jpg"
 categories: agatha
 hidden: true
