@@ -23,7 +23,7 @@ Afin de pouvoir le faire tranquillement et profiter pleinement de l'aventure, je
 
 <p>- remettre votre projet entrepreneurial dans le contexte global de votre vie</p>
 
-<p>- identifier clairement vos limites afin de pouvoir vous donner à fond sans avoir à craindre de le regretter</p>
+<p>- identifier clairement vos limites afin de pouvoir vous donner à fond sans remords</p>
 
 <p>- pouvoir remplir votre Business Plan avec des données solides et le faire évoluer avec assurance en fonction de l'avancement de votre projet</p>
 </div>
