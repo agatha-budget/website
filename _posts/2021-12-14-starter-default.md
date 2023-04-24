@@ -29,6 +29,8 @@ Prenez le temps de réfléchir à ce qui vous motive à gérer votre argent. Est
 
 Il n'y a pas de bonnes réponses et vous n'avez pas besoin de donner une réponse définitive. Suivez simplement votre instinct pour le moment et au fur et à mesure de votre suivi vos priorités deviendront apparentes.
 
+Vous pouvez utiliser [ce document](/img/ressources/budget-sur-mesure.pdf) pour structurer votre réflexion. 
+
 Une fois vos priorités identifiées, faites-les apparaître dans votre budget sous forme d'enveloppes (filet de sécurité, loisirs favoris, projet...).
 Par défaut, ajoutez dans le nom de l'enveloppe le montant que vous souhaitez atteindre ou celui que vous voulez y allouer chaque mois.
 Ces enveloppes VIP sont celles qui maintiendront votre motivation. Ce sont celles dans lesquelles vous aurez plaisir à ajouter de l'argent chaque mois que ce soit pour l'accumuler ou pour pouvoir le dépenser.
@@ -116,7 +118,7 @@ Le jour où un imprévu essaye de vous prendre par surprise, cet argent vous don
 <h2 class="gradient-icon icon-direction text-primary"></h2>
 <h2 class="post-heading"> Acte 3 - Tout le monde à son poste</h2>
 
-Si vous étiez resté sur papier et n'avez pas encore de compte Agatha, c’est le moment d'en créer un.
+Si vous étiez resté sur papier et n'avez pas encore de compte Agatha, c’est le moment d'en créer un : [cliquez ici](https://mon.agatha-budget.fr/) 
 
 Une fois connecté, ajoutez tous vos comptes bancaires et leur solde actuel. 
 

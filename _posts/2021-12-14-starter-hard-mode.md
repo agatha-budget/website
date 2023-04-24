@@ -33,6 +33,8 @@ Quels seraient vos projets à long terme ? Au contraire quelles sont les petites
 
 Il n'y a pas de bonne réponse et vous n'avez pas besoin de donner une réponse définitive. Suivez simplement votre instinct pour le moment et au fur et à mesure de votre suivi vos priorités deviendront apparentes.
 
+Vous pouvez utiliser [ce document](/img/ressources/budget-sur-mesure.pdf) pour structurer votre réflexion. 
+
 Une fois vos priorités identifiées, faites-les apparaître dans votre budget sous forme d'enveloppes (filet de sécurité, loisirs favoris, projet...). 
 Ces enveloppes privilégiées sont celles qui maintiendront votre motivation. Ce sont celles dans lesquelles vous aurez plaisir à ajouter de l'argent chaque mois que ce soit pour l'accumuler ou pour pouvoir le dépenser.
 
