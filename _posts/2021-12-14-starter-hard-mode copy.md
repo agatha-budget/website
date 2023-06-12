@@ -86,7 +86,7 @@ Vous aurez sûrement à utiliser votre filet dans un premier temps, mais à term
 <h2 class="gradient-icon icon-direction text-primary"></h2>
 <h2 class="post-heading"> Acte 3 - Tout le monde à son poste</h2>
 
-Si vous étiez resté sur papier et n'avez pas encore de compte Agatha, c’est le moment d'en créer un.
+Si vous étiez resté sur papier et n'avez pas encore de compte Agatha, c’est le moment d'en créer un : [cliquez ici](https://mon.agatha-budget.fr/) 
 
 Une fois connecté, ajoutez tous vos comptes bancaires et leur solde actuel. 
 
