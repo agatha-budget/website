@@ -204,8 +204,8 @@ Assigner la TVA perçue à l'enveloppe "TVA due à l'Etat" et celle payée à "T
 Dans la catégorie TVA de votre budget, vous pourrez voir les deux montants juxtaposés. Votre objectif est que le montant disponible dans cette catégorie (somme des enveloppes qu'elle contient) soit de 0. Pour cela l'enveloppe "Ajustement TVA" vous servira de variable ... d'ajustement ;).
 
 Exemple :
- - Vous devez percevoir 100€ et en reverser 105€, le montant total est de -5€, ajoutez 5€ dans l'enveloppe d'ajustement.
-- Vous devez percevoir 100€ et en reverser 90€, le montant total est de 10€,  retirez ce surplus de cette même enveloppe. 
+ - Vous devez percevoir 100€ et en reverser 105€, le montant total est de -5€, ajoutez 5€ dans l'enveloppe d'ajustement qui seront prélevé lors de la régularisation de TVA.
+- Vous devez percevoir 100€ et en reverser 90€, le montant total est de 10€. Vous ne pouvez pas utiliser cet argent tant que la régularisation de TVA n'a pas eu lieu. Il reste donc immobilisé dans l'enveloppe.
 
 De cette façon, vous isolez le sujet de la TVA et pouvez utiliser le reste de l'argent disponible dans le budget en toute confiance.
 
