@@ -57,7 +57,14 @@ $counter-color: #fcbd20;
       -webkit-background-clip: text;
       -webkit-text-fill-color: transparent;
       text-align: center;
+
+      &.heart {
+        background: -webkit-linear-gradient(to left, pink, red);
+        background: linear-gradient(to left,pink, red);
+      }
 }
+
+
 
 span.blue {
         color: $head-secondary
