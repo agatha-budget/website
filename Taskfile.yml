@@ -6,7 +6,4 @@ tasks:
       - task --list-all
   run:
     cmds:
-      - bundle exec jekyll serve
-  update:
-    cmds:
-      - bundle update
+      - jekyll serve

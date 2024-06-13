@@ -25,6 +25,10 @@ body {
   font-family: 'Muli', 'Helvetica', 'Arial', 'sans-serif';
 }
 
+.bold {
+  font-weight: bold;
+}
+
 a {
   -webkit-transition: all 0.35s;
   -moz-transition: all 0.35s;
@@ -643,31 +647,25 @@ body {
   }
 }
 
-section.features .pricing {
-  #essentiel-pricing {
-    background-color: $head-secondary;
-  }
-  #integral-pricing {
-    background-color: $head-primary;
-  }
-  #faithfull-pricing {
-    background: -webkit-linear-gradient(to left, $head-primary, $head-secondary);
-    background: linear-gradient(to left, $head-primary, $head-secondary);
-  }
+.pricing {
   .feature-item {
+    background: white;
     padding: 10px;
     padding-top: 30px;
     margin-bottom: 30px;
     border-radius: 10px;
     h3 {
       font-weight: bold;
-      color: white;
+      color: $head-primary;
     }
     p {
-      color: whitesmoke;
+      color: $head-secondary;
+      &.bold, .bold {
+        color: $head-primary;;
+      }
     }
     i {
-      background: white;
+      font-size: 80px;
       -webkit-background-clip: text;
       -webkit-text-fill-color: transparent;
     }

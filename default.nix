@@ -1,16 +1,13 @@
-with (import <nixpkgs> {});
-let
-  env = bundlerEnv {
-    name = "site agatha";
-    inherit ruby;
-    gemfile = ./Gemfile;
-    lockfile = ./Gemfile.lock;
-    gemset = ./gemset.nix;
-  };
-in stdenv.mkDerivation {
-  name = "site-agatha";
-  buildInputs = [env ruby bundler nodejs go-task];
+{ pkgs ? import <nixpkgs> {} }:
+
+with pkgs;
+
+mkShell {
+buildInputs = [
+jekyll rubyPackages.github-pages go-task
+];
+shellHook = ''
+        export PATH="$PWD/node_modules/.bin/:$PATH"
+    '';
+
 }
-
-
-# source : https://matthewrhone.dev/jekyll-in-nixos

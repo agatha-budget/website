@@ -20,4 +20,4 @@ group :jekyll_plugins do
     gem 'rouge'
 end
 
-gem "jekyll", "~> 3.8"
+gem "jekyll", "~> 4.0"
