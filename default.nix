@@ -9,7 +9,7 @@ let
   };
 in stdenv.mkDerivation {
   name = "site-agatha";
-  buildInputs = [env ruby bundler nodejs];
+  buildInputs = [env ruby bundler nodejs go-task];
 }
 
 
