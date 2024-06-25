@@ -10,10 +10,11 @@ categories: agatha entrepreneur
 <div class="break">
 <h2>Accompagnement proposé</h2>
 <ul>
-<li>Une demi-heure de présentation et d'échange autour du sujet de l'argent en entreprise</li>
+<li>Une heure de présentation et d'échange autour du sujet de l'argent en entreprise</li>
 <li>La mise à disposition de l'outil en ligne Agatha</li>
 <li>Un support individuel et réactif pour la prise en main et l'exploitation de l'outil</li>
 <li>Des séances d'accompagnement individuel pour ceux qui le souhaitent</li>
+<li>Prix : 50€/h d'accompagnement</li>
 </ul>
 <h3>Je suis à votre disposition pour discuter de tout arrangement qui répondrait au mieux à vos besoins</h3>
 </div>

@@ -15,7 +15,7 @@ En tant qu'entrepreneur, la priorité est de parvenir à assurer la viabilité p
 Si le contexte est différent, notre approche est similaire à celle que nous proposons pour les budgets de particuliers.
 
 En résumé dans ce guide, nous allons :
-   -  identifier vos priorités et motivations
+   - identifier vos priorités et motivations
    - faire le point des coûts de votre entreprise (frais réguliers comme irréguliers)
    - établir un plan en répartissant l'argent de votre entreprise selon le rôle que vous voulez lui donner
    - comprendre comment utiliser votre budget au quotidien et l'améliorer en le confrontant à la réalité

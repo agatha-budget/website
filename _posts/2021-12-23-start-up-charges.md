@@ -1,10 +1,10 @@
 ---
 layout:     post
 title:      "Se mettre à son compte : évaluer ses charges"
-date:       2021-12-21 12:01:00
+date:       2021-12-23 12:01:00
 author:     "Erica Delagnier"
 author_img: "erica.jpg"
-categories: agatha entrepreneur
+categories: entrepreneur
 hidden: true
 ---
 
